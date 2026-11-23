@@ -1,0 +1,17 @@
+{
+  "name": "CozyRooms.Editor",
+  "rootNamespace": "CozyRooms.Editor",
+  "references": [
+    "CozyRooms.Core",
+    "CozyRooms.Runtime",
+    "Unity.Netcode.Runtime",
+    "Unity.XR.CoreUtils",
+    "Unity.XR.Interaction.Toolkit",
+    "Unity.TextMeshPro"
+  ],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true,
+  "versionDefines": [
+    { "name": "com.unity.netcode.gameobjects", "expression": "2.0.0", "define": "COZY_NGO_2" }
+  ]
+}

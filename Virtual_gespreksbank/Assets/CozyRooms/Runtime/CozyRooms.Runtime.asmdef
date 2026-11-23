@@ -1,0 +1,37 @@
+{
+  "name": "CozyRooms.Runtime",
+  "rootNamespace": "CozyRooms",
+  "references": [
+    "CozyRooms.Core",
+    "Unity.Netcode.Runtime",
+    "Unity.Collections",
+    "Unity.InputSystem",
+    "Unity.XR.CoreUtils",
+    "Unity.XR.Interaction.Toolkit",
+    "Unity.TextMeshPro",
+    "Unity.ugui",
+    "Unity.Services.Vivox",
+    "Unity.Services.Multiplayer",
+    "Unity.Services.Authentication",
+    "Unity.Services.Core",
+    "VRMP"
+  ],
+  "autoReferenced": true,
+  "versionDefines": [
+    {
+      "name": "com.unity.netcode.gameobjects",
+      "expression": "2.0.0",
+      "define": "COZY_NGO_2"
+    },
+    {
+      "name": "com.unity.netcode.gameobjects",
+      "expression": "2.7.0",
+      "define": "COZY_NGO_RPC_PERMISSIONS"
+    },
+    {
+      "name": "com.unity.services.vivox",
+      "expression": "16.0.0",
+      "define": "COZY_VIVOX_AVAILABLE"
+    }
+  ]
+}

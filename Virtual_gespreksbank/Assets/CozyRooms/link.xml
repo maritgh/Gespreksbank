@@ -1,0 +1,17 @@
+<linker>
+  <!-- Publieke template-API voor de reflectiebrug, ook in IL2CPP-builds. -->
+  <assembly fullname="VRMP" ignoreIfMissing="1">
+    <type fullname="XRMultiplayer.XRINetworkGameManager" preserve="all" />
+    <type fullname="XRMultiplayer.VoiceChatManager" preserve="all" />
+    <type fullname="XRMultiplayer.XRINetworkPlayer" preserve="all" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+    <type fullname="XRMultiplayer.XRINetworkGameManager" preserve="all" />
+    <type fullname="XRMultiplayer.VoiceChatManager" preserve="all" />
+    <type fullname="XRMultiplayer.XRINetworkPlayer" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.XR.CoreUtils" ignoreIfMissing="1">
+    <type fullname="Unity.XR.CoreUtils.Bindings.Variables.BindableVariable`1" preserve="all" />
+    <type fullname="Unity.XR.CoreUtils.Bindings.Variables.BindableVariableBase`1" preserve="all" />
+  </assembly>
+</linker>

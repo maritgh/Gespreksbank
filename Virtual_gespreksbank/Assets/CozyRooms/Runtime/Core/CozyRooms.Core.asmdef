@@ -1,0 +1,7 @@
+{
+  "name": "CozyRooms.Core",
+  "rootNamespace": "CozyRooms",
+  "references": [],
+  "autoReferenced": true,
+  "noEngineReferences": true
+}

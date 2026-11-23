@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="0%" r="95%">
+      <stop offset="0%" stop-color="#14c0ff"/>
+      <stop offset="35%" stop-color="#0b6fe0"/>
+      <stop offset="100%" stop-color="#021545"/>
+    </radialGradient>
+
+    <linearGradient id="wave" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#2aa8ff" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#a5e6ff" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#2aa8ff" stop-opacity="0.2"/>
+    </linearGradient>
+
+    <filter id="glow" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+
+    <path id="w1" fill="none" stroke-width="2"   d="M-50 420 C 250 270, 480 640, 820 550 S 1350 310, 1650 410"/>
+    <path id="w2" fill="none" stroke-width="3"   d="M-50 450 C 250 300, 480 670, 820 580 S 1350 340, 1650 440"/>
+    <path id="w3" fill="none" stroke-width="2"   d="M-50 480 C 250 340, 480 700, 820 610 S 1350 380, 1650 470"/>
+    <path id="w4" fill="none" stroke-width="1.5" d="M-50 510 C 250 380, 480 730, 820 640 S 1350 420, 1650 500"/>
+    <path id="w5" fill="none" stroke-width="1"   d="M-50 540 C 250 420, 480 760, 820 670 S 1350 460, 1650 530"/>
+    <path id="w6" fill="none" stroke-width="1"   d="M-50 570 C 250 460, 480 790, 820 700 S 1350 500, 1650 560"/>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+
+  <g stroke="url(#wave)" stroke-linecap="round" fill="none">
+
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        values="-30 22; 30 -22; -30 22" dur="18s" repeatCount="indefinite"/>
+      <use href="#w1" filter="url(#glow)" opacity="0.9"/>
+      <use href="#w1"/>
+    </g>
+
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        values="25 -20; -35 24; 25 -20" dur="22s" repeatCount="indefinite"/>
+      <use href="#w2" filter="url(#glow)" opacity="0.9"/>
+      <use href="#w2"/>
+    </g>
+
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        values="-20 -25; 30 20; -20 -25" dur="25s" repeatCount="indefinite"/>
+      <use href="#w3" filter="url(#glow)" opacity="0.9"/>
+      <use href="#w3"/>
+    </g>
+
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        values="30 18; -25 -22; 30 18" dur="20s" repeatCount="indefinite"/>
+      <use href="#w4" filter="url(#glow)" opacity="0.9"/>
+      <use href="#w4"/>
+    </g>
+
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        values="-28 -15; 28 25; -28 -15" dur="27s" repeatCount="indefinite"/>
+      <use href="#w5" filter="url(#glow)" opacity="0.9"/>
+      <use href="#w5"/>
+    </g>
+
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        values="22 25; -30 -18; 22 25" dur="23s" repeatCount="indefinite"/>
+      <use href="#w6" filter="url(#glow)" opacity="0.9"/>
+      <use href="#w6"/>
+    </g>
+
+  </g>
+
+  <g fill="#bfeaff">
+    <circle cx="240" cy="180" r="2" opacity="0.5">
+      <animate attributeName="opacity" values="0.15;0.8;0.15" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="520" cy="90" r="1.5" opacity="0.5">
+      <animate attributeName="opacity" values="0.8;0.15;0.8" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="230" r="2" opacity="0.5">
+      <animate attributeName="opacity" values="0.15;0.8;0.15" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1180" cy="120" r="2.5" opacity="0.5">
+      <animate attributeName="opacity" values="0.8;0.15;0.8" dur="6.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1420" cy="260" r="1.5" opacity="0.5">
+      <animate attributeName="opacity" values="0.15;0.8;0.15" dur="7.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="380" cy="780" r="2" opacity="0.5">
+      <animate attributeName="opacity" values="0.8;0.15;0.8" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1050" cy="800" r="1.5" opacity="0.5">
+      <animate attributeName="opacity" values="0.15;0.8;0.15" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1500" cy="700" r="2" opacity="0.5">
+      <animate attributeName="opacity" values="0.8;0.15;0.8" dur="8.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

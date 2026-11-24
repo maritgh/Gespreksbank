@@ -4,6 +4,12 @@ De Gespreksbank heeft als doel om **studenten meer met elkaar te laten praten**.
 
 Dit project werkt dat idee op twee manieren uit: een website met gespreksvragen voor gebruik bij een fysieke bank en een virtuele ontmoetingsplek in VR. Beide onderdelen ondersteunen hetzelfde doel: studenten helpen om met elkaar in gesprek te komen.
 
+## Poster
+
+[![Poster van De Gespreksbank](docs/images/poster-hackathon.png)](POSTER-HACKATHON.pdf)
+
+[Bekijk of download de poster als PDF](POSTER-HACKATHON.pdf).
+
 ## De twee onderdelen
 
 | Onderdeel | Wat doet het? | Documentatie |

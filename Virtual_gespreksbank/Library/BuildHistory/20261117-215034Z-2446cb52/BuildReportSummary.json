@@ -1,0 +1,35 @@
+{
+    "Version": 2,
+    "BuildContentOptions": [
+        "None"
+    ],
+    "BuildManifestHash": "00000000000000000000000000000000",
+    "BuildName": "cozyrooms",
+    "BuildOptions": [
+        "ForceOptimizeScriptCompilation",
+        "Il2CPP",
+        "CompressTextures",
+        "StripDebugSymbols",
+        "ShaderLivelinkSupport",
+        "AutoRunPlayer",
+        "CompressWithLz4",
+        "StrictMode"
+    ],
+    "BuildProfilePath": "",
+    "BuildResult": 1,
+    "BuildResultName": "Succeeded",
+    "BuildSessionGUID": "2446cb521bfbb44289fb1585dbea9a7d",
+    "BuildStartedAt": "2026-11-17T21:50:34.3372690Z",
+    "BuildType": 1,
+    "BuildTypeName": "Player",
+    "ContentSourceBuildSessionGUID": "221dcb7460a214444adbdbdd99bb7bec",
+    "OutputPath": "/Users/maritsnijder/hackathon/cozyrooms/build/cozyrooms3.apk",
+    "Platform": 13,
+    "PlatformName": "Android",
+    "Subtarget": 0,
+    "SubtargetName": "0",
+    "TotalErrors": 0,
+    "TotalSizeBytes": 1696678509,
+    "TotalTimeMs": 15271,
+    "TotalWarnings": 2
+}

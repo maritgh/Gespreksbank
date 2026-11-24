@@ -1,0 +1,1531 @@
+{
+  "version": "1.0",
+  "lastUpdate": "2026-11-23T16:36:25.985Z",
+  "totalChanges": 254,
+  "changes": [
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Textures/RenderTextures/MirrorRenderTexture.renderTexture",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:36:25.984Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Plans/tussenruimte-shared-games-and-room-browser.md",
+      "oldPath": null,
+      "timestamp": "2026-11-17T22:18:32.070Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Settings/URP-Performant.asset",
+      "oldPath": null,
+      "timestamp": "2026-11-18T11:22:17.622Z"
+    },
+    {
+      "type": "deleted",
+      "path": "Assets/XR/Temp",
+      "oldPath": null,
+      "timestamp": "2026-11-18T11:22:17.343Z"
+    },
+    {
+      "type": "moved",
+      "path": "Assets/XR/UserSimulationSettings/Resources/XRSimulationPreferences.asset",
+      "oldPath": "Assets/XR/Temp/XRSimulationPreferences.asset",
+      "timestamp": "2026-11-18T11:22:17.196Z"
+    },
+    {
+      "type": "moved",
+      "path": "Assets/XR/Resources/XRSimulationRuntimeSettings.asset",
+      "oldPath": "Assets/XR/Temp/XRSimulationRuntimeSettings.asset",
+      "timestamp": "2026-11-18T11:22:17.262Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Settings/UniversalRenderPipelineGlobalSettings.asset",
+      "oldPath": null,
+      "timestamp": "2026-11-18T11:22:17.755Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Audio/Main.mixer",
+      "oldPath": null,
+      "timestamp": "2026-11-17T22:29:42.002Z"
+    },
+    {
+      "type": "domain_reload",
+      "path": "",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:36:23.155Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Tutorial/TutorialMaterials/Video_Material_Unlit.mat",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:36:05.513Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/MiniGames/MiniGameTextures/MiniGameRenderTextures/MiniGameVideo_Climbing.renderTexture",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:36:23.908Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/MiniGames/MiniGameTextures/MiniGameRenderTextures/MiniGameVideo_Whack_A_Pig.renderTexture",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:36:23.908Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/MiniGames/MiniGameTextures/MiniGameRenderTextures/MiniGameVideo_Slingshot.renderTexture",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:36:23.908Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Materials/InteractableMaterials/Object_Material_Kinematic.mat",
+      "oldPath": null,
+      "timestamp": "2026-11-17T22:34:46.753Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Player/OfflinePlayerAvatar.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.823Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkManagers/XRINetworkGameManager.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.815Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Player/AvatarCosmetics.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.818Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Runtime/UI/CozyRoomUI.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.837Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Generated/De Gespreksbank.unity",
+      "oldPath": null,
+      "timestamp": "2026-11-20T09:59:41.669Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Runtime/Networking/CozyTemplateSessionBridge.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.825Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Runtime/UI/CozyKeyboard.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.826Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Tests/Editor/AvatarProfileTests.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.818Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Editor/CozyWorldBuilder.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.808Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/UI/OfflineMenu.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.846Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkManagers/SessionManager.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.812Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Tests/Editor/SessionBrowserTests.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.838Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Player/PlayerAppearanceMenu.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.841Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Editor/CozyInstaller.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.841Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Runtime/CozyRooms.Runtime.asmdef",
+      "oldPath": null,
+      "timestamp": "2026-11-17T22:46:36.049Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Player/PlayerCustomization.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.806Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Runtime/Networking/CozySessionBrowser.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.834Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Tests/Editor/CozyRooms.Tests.asmdef",
+      "oldPath": null,
+      "timestamp": "2026-11-17T22:46:36.049Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkPlayer/XRINetworkPlayer.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.840Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Runtime/UI/CozyAvatarCustomizer.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.847Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkPlayer/XRAvatarVisuals.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.846Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/UI/PlayerOptions.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.807Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Prefabs/PlayerPrefabs/XRMPT_XR_Origin_Setup.prefab",
+      "oldPath": null,
+      "timestamp": "2026-11-17T23:06:01.951Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Prefabs/UIPrefabs/Hand Menu ScrollView Popout.prefab",
+      "oldPath": null,
+      "timestamp": "2026-11-17T23:10:15.309Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Prefabs/PrefabVariants/XR Origin Hands (XR Rig) MP Template Variant.prefab",
+      "oldPath": null,
+      "timestamp": "2026-11-17T23:11:08.957Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Prefabs/UIPrefabs/MenuUI/Player_Menu_UI.prefab",
+      "oldPath": null,
+      "timestamp": "2026-11-17T23:10:15.309Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Prefabs/PlayerPrefabs/XRMPT_XR_Origin_Tutorial Variant.prefab",
+      "oldPath": null,
+      "timestamp": "2026-11-17T23:06:01.951Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Prefabs/Hand Menu With Popout Button Activation.prefab",
+      "oldPath": null,
+      "timestamp": "2026-11-17T23:10:15.309Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Player/AvatarColorUtility.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.816Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Tests/Editor/AvatarAccessoryTests.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.817Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Prefabs/Managers/Network Manager VR Multiplayer.prefab",
+      "oldPath": null,
+      "timestamp": "2026-11-17T23:22:25.064Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/Materials/FresnelHighlight.mat",
+      "oldPath": null,
+      "timestamp": "2026-11-17T23:22:31.958Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Editor/Scripts/XRKeyboardConfigEditor.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.800Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/UI/PlayerList/PlayerListUI.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.800Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/UI/PlayerList/PlayerListInitializer.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.800Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/Scripts/MaterialPipelineHandler.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.800Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/Scripts/ToggleComponentZone.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.801Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/MiniGames/MiniGameScripts/Slingshot/SlingshotVisualUpdater.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.801Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkInteractions/NetworkBaseInteractable.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.801Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/DemoAssets/Scripts/UI/VideoPlayerRenderTexture.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.802Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/MiniGames/MiniGameScripts/ScoreboardSlot.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.802Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Editor/Scripts/KeyboardOptimizerEditor.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.802Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Runtime/Networking/CozyVoiceRouter.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.803Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Editor/Readme/ReadmeEditor.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.803Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Editor/Scripts/XRKeyboardKeyEditor.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.803Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/SubTrigger.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.803Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/DemoAssets/Scripts/Utilities/AnchorVisuals.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.803Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/BooleanToggleVisualsController.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.803Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/DelayedUnityEvent.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.803Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Scripts/KeyFunctions/ValueKeyFunction.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.803Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/Editor/Scripts/HandsSampleProjectValidation.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.804Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/DemoAssets/Scripts/ObjectResetPlane.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.804Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Scripts/KeyboardBatchFollow.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.805Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Editor/EditorUtils/BuildIncrementer/BuildIdIncrementer.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.805Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/Scripts/HandsOneEuroFilterPostProcessor.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.805Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/Scripts/PermissionsManager.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.805Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Runtime/Core/RoomRules.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.805Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/Scripts/TeleportHandGesture.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.806Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/PositionalClampY.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.806Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Runtime/Core/RoomCatalog.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.806Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkUtilityComponents/NetworkTrigger.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.806Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Scripts/XRKeyboardConfig.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.806Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/Scripts/GazeInputManager.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.806Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkInteractions/NetworkPhysicsInteractable.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.806Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Player/ConnectionToggler.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.806Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/ControllerTooltips/Callout.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.806Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/KeyLockSystem/Lock.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.806Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Runtime/World/CozyWorld.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.807Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Scripts/GlobalNonNativeKeyboard.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.807Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Editor/InEditorTutorials/TutorialCallbacks.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.807Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Runtime/Networking/NetworkRoomState.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.807Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkInteractableSpawner/NetworkInteractableSpawner.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.807Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Tutorial/TutorialScripts/VideoTimeScrubControl.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.807Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/Scripts/LocalPositionOffsetAffordanceReceiver.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.807Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/UI/PlayerList/PlayerSlot.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.808Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Player/JointBasedHand.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.808Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Scripts/KeyFunctions/KeyCodeFunction.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.809Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/DemoAssets/Scripts/Utilities/Billboard.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.810Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/MiniGames/MiniGameScripts/WhackAPig/Breakable.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.810Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/Scripts/ValueDerivedButtonReader.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.810Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Gameplay/Drawing/SimplePen.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.811Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/XRPokeFollowAffordanceFill.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.811Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/UIComponentToggler.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.812Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/Scripts/ClimbTeleportDestinationIndicator.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.812Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/MiniGames/MiniGameScripts/MiniGameManager.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.812Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/VersionText.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.812Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/MiniGames/MiniGameScripts/Slingshot/MiniGame_Slingshot.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.812Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Gameplay/MessageBoard/MessageText.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.813Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Gameplay/TargetPractice/TargetManager.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.813Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/PoolerProjectiles.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.813Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/Scripts/ObjectSpawner.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.814Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/LightBakeUtility.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.814Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Scripts/KeyFunctions/ShiftFunction.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.814Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/DemoAssets/Scripts/IncrementUIText.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.814Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Editor/EditorUtils/TextConverter.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.815Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/Permissions/PlatformUnderstanding.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.816Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/MiniGames/MiniGameScripts/WhackAPig/MiniGame_Whack.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.816Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/ControllerTooltips/BezierCurve.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.816Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/DemoAssets/Scripts/Utilities/PositionOscillator.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.816Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Scripts/XRKeyboardEvents.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.817Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/XR Interaction Simulator/Scripts/XRInteractionSimulatorPlayModeMenu.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.817Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkInteractableSpawner/NetworkInteractableSpawnerEditor.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.817Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Editor/Readme/Readme.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.818Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkProjectileLauncher.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.818Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/Scripts/OneEuroFilterVector3.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.818Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/XR Interaction Simulator/Editor/XRInteractionSimulatorProjectValidation.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.819Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Gameplay/TargetPractice/Projectile.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.819Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/XR Interaction Simulator/Scripts/XRInteractionSimulatorInputFeedbackUI.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.819Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Hands/1.8.1/HandVisualizer/Scripts/MaterialPipelineHandler.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.819Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkUtilityComponents/ClientNetworkTransform.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.819Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Editor/Scripts/KeyMappingPropertyDrawer.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.820Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Editor/Scripts/SpatialKeyboardSampleProjectValidation.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.820Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/KeyLockSystem/IKeychain.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.820Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkBillboard.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.821Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkManagers/VoiceChatManager.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.821Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/Pooler.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.821Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/ControllerTooltips/TurnToFace.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.821Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/XRKnob.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.821Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/Editor/Scripts/StarterAssetsSampleProjectValidation.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.822Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Player/PlayerHudNotification.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.822Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/Scripts/MetaSystemGestureDetector.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.822Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/MiniGames/MiniGameScripts/Slingshot/SlingshotProjectile.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.823Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkXRKnob.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.823Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Scripts/XRKeyboard.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.823Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/DemoAssets/Scripts/UI/CalloutGazeController.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.823Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkXRLever.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.823Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/ResetVideoOnLoop.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.824Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Scripts/XRKeyboardLayout.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.824Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/DemoAssets/Scripts/MultiAnchorTeleportReticle.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.824Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/CharacterResetter.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.825Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/MiniGames/MiniGameScripts/Climber/MiniGame_Climber.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.825Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/Scripts/Vector3ScaleAffordanceReceiver.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.826Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Hands/1.8.1/HandVisualizer/Scripts/JointVisualizer.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.826Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Gameplay/Drawing/PenTrail.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.826Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/Scripts/HideObjectWhenInteractorBlocked.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.827Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/KeyLockSystem/Key.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.827Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/GameObjectToggle.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.827Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/Scripts/TeleportVolumeAnchorAffordanceStateLink.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.827Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/XRLever.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.828Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/XR Interaction Simulator/Scripts/XRInteractionSimulatorCursor.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.828Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/DemoAssets/Scripts/UI/VideoTimeScrubControl.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.828Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Scripts/KeyboardOptimizer.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.829Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Scripts/XRKeyboardDisplay.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.829Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Tests/Editor/RoomRulesTests.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.830Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/UI/LobbyList/LobbyUI.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.830Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/Scripts/ControllerAnimator.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.831Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkManagers/AuthenticationManager.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.831Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkUtilityComponents/NetworkUI/NetworkedButton.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.831Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/Scripts/RotationAxisLockGrabTransformer.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.832Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/Scripts/PokeGestureDetector.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.832Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/Scripts/XRPokeFollowAffordance.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.832Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Gameplay/TargetPractice/Target.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.832Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/UI/GreetingBoardUI.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.832Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Editor/EditorUtils/MeshSaver.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.833Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Gameplay/RoomMusic.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.833Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/UI/TooltipUI.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.833Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkManagers/NetworkManagerVRMultiplayer.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.833Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/MiniGames/MiniGameScripts/Slingshot/Slingshot.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.833Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/Scripts/ReleaseThresholdButtonReader.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.834Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/DemoAssets/Scripts/ToggleGameObject.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.835Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/MiniGames/MiniGameScripts/WhackAPig/NetworkedWhackAPig.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.835Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/DemoAssets/Scripts/Utilities/RotationOscillator.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.836Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/MiniGames/MiniGameScripts/MiniGameBase.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.836Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Editor/Scripts/XRKeyboardEditor.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.836Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Scripts/KeyFunctions/HideFunction.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.836Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Gameplay/SimpleFan.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.836Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/DemoAssets/Scripts/TransformSync.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.837Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkPlayer/XRAvatarIK.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.837Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Gameplay/MessageBoard/NetworkMessageBoard.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.837Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/SnapToPlayerHeight.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.838Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkInteractions/NetworkSocketInteractor.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.838Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/Scripts/DynamicMoveProvider.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.838Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/Billboard.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.838Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/LazyFollow.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.838Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Gameplay/AntiGravityZone.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.839Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Tutorial/TutorialScripts/VideoPlayerTutorial.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.839Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/UI/WorldCanvas.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.839Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Gameplay/NetworkObjectDestroyer.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.839Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Tutorial/TutorialScripts/VideoPlayerRenderTexture.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.839Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/DemoAssets/Scripts/UI/UIComponentToggler.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.839Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Runtime/World/CozyPlayerRig.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.839Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/Scripts/DestroySelf.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.840Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Player/CalloutGazeController.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.840Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Hands/1.8.1/HandVisualizer/Scripts/HandVisualizer.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.841Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Scripts/XRKeyboardKey.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.841Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/Permissions/PermissionsManager.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.841Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/Scripts/PinchPointFollow.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.841Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/Scripts/JoystickPinchHandGesture.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.841Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Runtime/World/CozyRoomAnchor.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.841Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkPlayer/XRHandPoseReplicator.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.842Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/Scripts/ControllerInputActionManager.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.842Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/Scripts/ToggleColorToggler.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.842Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Hands/1.8.1/HandVisualizer/Scripts/HandProcessor.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.843Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Runtime/Networking/CozyRoomDirectory.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.843Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/Scripts/PlatformUnderstanding.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.844Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkUtilityComponents/NetworkUI/NetworkedToggle.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.844Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/NetworkedPlatformSpecificVisuals.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.844Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/AnchorVisuals.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.844Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Editor/Scripts/XRKeyboardDisplayEditor.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.845Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/DemoAssets/Scripts/UI/ResetVideoOnLoop.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.845Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/UI/IntButtonUI.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.845Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/KeyLockSystem/Keychain.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.846Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkUtilityComponents/NetworkUI/NetworkedSlider.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.846Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Network/NetworkUtilityComponents/NetworkUI/NetworkedDropdown.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.846Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/DemoAssets/Scripts/UI/TutorialVideoPlayer.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.846Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/Utils.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.846Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/DemoAssets/Scripts/PokeBlendShapeAnimator.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.847Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Runtime/UI/CozyUiFactory.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.847Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Scripts/KeyFunction.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.847Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/XRLockSocketInteractor.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.847Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/UI/PopoutUI.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.847Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/UI/LobbyList/LobbyListSlotUI.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.848Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/Runtime/Core/RoomSnapshot.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.848Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Helpers/ObjectReset.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.848Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/Scripts/KeyFunctions/LayoutFunction.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.848Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/VRMPAssets/Scripts/Player/PlayerNameTag.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:50.848Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/Materials/Unity_Hand_Medium.mat",
+      "oldPath": null,
+      "timestamp": "2026-11-20T09:59:41.557Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/TemplatePresets/PlayerSettings.preset",
+      "oldPath": null,
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Editor/InEditorTutorials/Tutorial2_PlayerSetup/Tutorial 2 - Sample Scene Player Setup.asset",
+      "oldPath": null,
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Editor/InEditorTutorials/Tutorial3_LobbyandRooms/Tutorial 3 - Lobby and Rooms.asset",
+      "oldPath": null,
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "moved",
+      "path": "Assets/CozyRooms/SharedSceneData/OcclusionCullingData.asset",
+      "oldPath": "Assets/Scenes/SampleScene/OcclusionCullingData.asset",
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Editor/InEditorTutorials/Tutorial Project Settings.asset",
+      "oldPath": null,
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Editor/InEditorTutorials/Tutorial4_SampleSceneExamples/Tutorial 4 - Sample Scene Examples.asset",
+      "oldPath": null,
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "moved",
+      "path": "Assets/CozyRooms/SharedSceneData",
+      "oldPath": "Assets/Scenes/SampleScene",
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/Editor/InEditorTutorials/Tutorial5_SampleSceneMiniGames/Tutorial 5 - Sample Scene Mini Games.asset",
+      "oldPath": null,
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "deleted",
+      "path": "Assets/Scenes/SampleScene.unity",
+      "oldPath": null,
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "moved",
+      "path": "Assets/CozyRooms/SharedSceneData/Lightmap-0_comp_light.exr",
+      "oldPath": "Assets/Scenes/SampleScene/Lightmap-0_comp_light.exr",
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "moved",
+      "path": "Assets/CozyRooms/SharedSceneData/Lightmap-0_comp_dir.png",
+      "oldPath": "Assets/Scenes/SampleScene/Lightmap-0_comp_dir.png",
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "moved",
+      "path": "Assets/CozyRooms/SharedSceneData/ReflectionProbe-0.exr",
+      "oldPath": "Assets/Scenes/SampleScene/ReflectionProbe-0.exr",
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "moved",
+      "path": "Assets/CozyRooms/SharedSceneData/Lightmap-3_comp_dir.png",
+      "oldPath": "Assets/Scenes/SampleScene/Lightmap-3_comp_dir.png",
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "moved",
+      "path": "Assets/CozyRooms/SharedSceneData/Lightmap-3_comp_light.exr",
+      "oldPath": "Assets/Scenes/SampleScene/Lightmap-3_comp_light.exr",
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "moved",
+      "path": "Assets/CozyRooms/SharedSceneData/Lightmap-1_comp_dir.png",
+      "oldPath": "Assets/Scenes/SampleScene/Lightmap-1_comp_dir.png",
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "moved",
+      "path": "Assets/CozyRooms/SharedSceneData/Lightmap-2_comp_light.exr",
+      "oldPath": "Assets/Scenes/SampleScene/Lightmap-2_comp_light.exr",
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "moved",
+      "path": "Assets/CozyRooms/SharedSceneData/Lightmap-2_comp_dir.png",
+      "oldPath": "Assets/Scenes/SampleScene/Lightmap-2_comp_dir.png",
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "moved",
+      "path": "Assets/CozyRooms/SharedSceneData/ReflectionProbe-1.exr",
+      "oldPath": "Assets/Scenes/SampleScene/ReflectionProbe-1.exr",
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "moved",
+      "path": "Assets/CozyRooms/SharedSceneData/Lightmap-1_comp_light.exr",
+      "oldPath": "Assets/Scenes/SampleScene/Lightmap-1_comp_light.exr",
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "moved",
+      "path": "Assets/CozyRooms/SharedSceneData/ReflectionProbe-0.png",
+      "oldPath": "Assets/Scenes/SampleScene/ReflectionProbe-0.png",
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "moved",
+      "path": "Assets/CozyRooms/SharedSceneData/Main_Scene Baking Set.asset",
+      "oldPath": "Assets/Scenes/SampleScene/Main_Scene Baking Set.asset",
+      "timestamp": "2026-11-23T15:39:11.934Z"
+    },
+    {
+      "type": "imported",
+      "path": "Assets/CozyRooms/SharedSceneData/LightingData.asset",
+      "oldPath": null,
+      "timestamp": "2026-11-23T15:43:06.136Z"
+    },
+    {
+      "type": "deleted",
+      "path": "Assets/Editor/GespreksbankSceneRemovalValidation.cs",
+      "oldPath": null,
+      "timestamp": "2026-11-23T16:35:41.029Z"
+    }
+  ]
+}

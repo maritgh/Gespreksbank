@@ -1,0 +1,3 @@
+UnityEngine.Microphone
+System.Net.Sockets
+UnityEngine.Application::get_internetReachability

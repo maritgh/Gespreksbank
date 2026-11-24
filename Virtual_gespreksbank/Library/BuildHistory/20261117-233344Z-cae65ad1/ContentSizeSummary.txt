@@ -1,0 +1,44 @@
+-------------------------------------------------------------------------------
+Build Report - Content Size Statistics
+Note: this shows uncompressed sizes.  Actual sizes may be smaller because of Unity Archive compression.
+Serialized File count                      8
+Resource file count                        1
+Object count                           25125
+Serialized Files                     128.9 mb	  76.0%
+Serialized Files Headers             765.2 kb	   0.4%
+Resource data (Texture,Audio...)      40.7 mb	  24.0%
+Total build size                     169.6 mb
+
+Largest Types:
+    71.5 mb	  42.1% Texture2D
+    24.9 mb	  14.7% VideoClip
+    17.8 mb	  10.5% ComputeShader
+    15.8 mb	   9.3% AudioClip
+    14.6 mb	   8.6% Cubemap
+    11.8 mb	   7.0% Shader
+     7.9 mb	   4.6% Mesh
+
+Largest Assets:
+    14.3 mb	   8.4% Assets/VRMPAssets/Textures/SkyboxTextures/skybox01_openGL.png
+    13.1 mb	   7.7% Packages/com.unity.ai.inference/Runtime/Core/Resources/Sentis/ComputeShaders/ConvGeneric.compute
+     6.6 mb	   3.9% Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+     5.7 mb	   3.3% Assets/VRMPAssets/Audio/MXClips/shape is motion-uaun.mp3
+     5.3 mb	   3.1% Assets/Scenes/SampleScene/Lightmap-1_comp_light.exr
+     5.3 mb	   3.1% Assets/Scenes/SampleScene/Lightmap-2_comp_light.exr
+     5.3 mb	   3.1% Assets/Scenes/SampleScene/Lightmap-3_comp_light.exr
+     5.3 mb	   3.1% Assets/Scenes/SampleScene/Lightmap-0_comp_light.exr
+     5.3 mb	   3.1% Assets/Scenes/SampleScene/Lightmap-2_comp_dir.png
+     5.3 mb	   3.1% Assets/Scenes/SampleScene/Lightmap-1_comp_dir.png
+     5.3 mb	   3.1% Assets/Scenes/SampleScene/Lightmap-3_comp_dir.png
+     5.3 mb	   3.1% Assets/Scenes/SampleScene/Lightmap-0_comp_dir.png
+     4.7 mb	   2.8% Assets/VRMPAssets/Audio/MXClips/2501 Wave-PsiMieC.mp3
+     4.0 mb	   2.4% Assets/VRMPAssets/Textures/Interactables/Txt_Dice.png
+     2.4 mb	   1.4% Assets/CozyRooms/Generated/De Gespreksbank.unity
+     2.4 mb	   1.4% Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/Textures/DefaultMaterial_AO.png
+     2.4 mb	   1.4% Assets/VRMPAssets/MiniGames/MiniGameTextures/PiggyBank_N.png
+     2.4 mb	   1.4% Assets/VRMPAssets/MiniGames/MiniGameTextures/PiggyBank_MS.png
+     2.4 mb	   1.4% Assets/VRMPAssets/MiniGames/MiniGameTextures/PiggyBank_A.png
+     2.2 mb	   1.3% Assets/VRMPAssets/Audio/MXClips/Spaceship-Kevin Semple.mp3
+     1.8 mb	   1.1% Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/DemoAssets/Sprites/LegibilityMask.png
+     1.8 mb	   1.1% Assets/VRMPAssets/Textures/White_Mixed_AO.png
+-------------------------------------------------------------------------------

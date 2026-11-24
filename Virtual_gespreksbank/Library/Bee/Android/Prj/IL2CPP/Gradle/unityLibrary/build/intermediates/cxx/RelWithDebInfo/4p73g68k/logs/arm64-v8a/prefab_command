@@ -1,0 +1,22 @@
+/Applications/Unity/Hub/Editor/6000.6.9f1/PlaybackEngines/AndroidPlayer/OpenJDK/bin/java \
+  --enable-native-access \
+  ALL-UNNAMED \
+  --class-path \
+  /Users/maritsnijder/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar \
+  com.google.prefab.cli.AppKt \
+  --build-system \
+  cmake \
+  --platform \
+  android \
+  --abi \
+  arm64-v8a \
+  --os-version \
+  34 \
+  --stl \
+  c++_shared \
+  --ndk-version \
+  27 \
+  --output \
+  /var/folders/z8/vq0s0d6j6sb7d3r3gqtffpxh0000gn/T/agp-prefab-staging8344477621279519058/staged-cli-output \
+  /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d4ea3c698e884249ed79b43ddcdcbbcb/transformed/jetified-openxr_loader/prefab \
+  /Users/maritsnijder/.gradle/caches/9.3.1/transforms/0cd2b774598c99c2e25cb70828d5fb95/transformed/jetified-games-activity-4.4.0/prefab

@@ -1,0 +1,758 @@
+[
+  {
+    "id": "assetType_Mesh",
+    "type": "assetType",
+    "name": "Mesh",
+    "description": "3D model files (FBX, OBJ, etc.) containing geometry data",
+    "asset_count": 40
+  },
+  {
+    "id": "assetType_Material",
+    "type": "assetType",
+    "name": "Material",
+    "description": "Material assets that define surface properties for rendering",
+    "asset_count": 256
+  },
+  {
+    "id": "assetType_MonoScript",
+    "type": "assetType",
+    "name": "MonoScript",
+    "description": "C# script files that contain game logic, components, and behaviors",
+    "asset_count": 13705
+  },
+  {
+    "id": "assetType_Object",
+    "type": "assetType",
+    "name": "Object",
+    "description": "Assets of type Object",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_GameObject",
+    "type": "assetType",
+    "name": "GameObject",
+    "description": "GameObject assets (prefabs or scene objects)",
+    "asset_count": 330
+  },
+  {
+    "id": "assetType_TMP_FontAsset",
+    "type": "assetType",
+    "name": "TMP_FontAsset",
+    "description": "Assets of type TMP_FontAsset",
+    "asset_count": 4
+  },
+  {
+    "id": "assetType_LightingSettings",
+    "type": "assetType",
+    "name": "LightingSettings",
+    "description": "Assets of type LightingSettings",
+    "asset_count": 5
+  },
+  {
+    "id": "assetType_Cubemap",
+    "type": "assetType",
+    "name": "Cubemap",
+    "description": "Assets of type Cubemap",
+    "asset_count": 8
+  },
+  {
+    "id": "assetType_AudioClip",
+    "type": "assetType",
+    "name": "AudioClip",
+    "description": "Audio files (WAV, MP3, OGG) used for sound effects and music",
+    "asset_count": 40
+  },
+  {
+    "id": "assetType_LightingDataAsset",
+    "type": "assetType",
+    "name": "LightingDataAsset",
+    "description": "Assets of type LightingDataAsset",
+    "asset_count": 4
+  },
+  {
+    "id": "assetType_AudioMixerController",
+    "type": "assetType",
+    "name": "AudioMixerController",
+    "description": "Assets of type AudioMixerController",
+    "asset_count": 2
+  },
+  {
+    "id": "assetType_InputActionAsset",
+    "type": "assetType",
+    "name": "InputActionAsset",
+    "description": "Assets of type InputActionAsset",
+    "asset_count": 7
+  },
+  {
+    "id": "assetType_Texture2D",
+    "type": "assetType",
+    "name": "Texture2D",
+    "description": "2D texture image files used for materials, sprites, and UI",
+    "asset_count": 3051
+  },
+  {
+    "id": "assetType_VolumeProfile",
+    "type": "assetType",
+    "name": "VolumeProfile",
+    "description": "Assets of type VolumeProfile",
+    "asset_count": 4
+  },
+  {
+    "id": "assetType_DefaultAsset",
+    "type": "assetType",
+    "name": "DefaultAsset",
+    "description": "Assets of type DefaultAsset",
+    "asset_count": 3305
+  },
+  {
+    "id": "assetType_CompositionLayersPreferences",
+    "type": "assetType",
+    "name": "CompositionLayersPreferences",
+    "description": "Assets of type CompositionLayersPreferences",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_CompositionLayersRuntimeSettings",
+    "type": "assetType",
+    "name": "CompositionLayersRuntimeSettings",
+    "description": "Assets of type CompositionLayersRuntimeSettings",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_AssemblyDefinitionAsset",
+    "type": "assetType",
+    "name": "AssemblyDefinitionAsset",
+    "description": "Assets of type AssemblyDefinitionAsset",
+    "asset_count": 356
+  },
+  {
+    "id": "assetType_Shader",
+    "type": "assetType",
+    "name": "Shader",
+    "description": "Shader code files that define rendering behavior",
+    "asset_count": 289
+  },
+  {
+    "id": "assetType_SceneAsset",
+    "type": "assetType",
+    "name": "SceneAsset",
+    "description": "Assets of type SceneAsset",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_TextAsset",
+    "type": "assetType",
+    "name": "TextAsset",
+    "description": "Text and arbitrary data files",
+    "asset_count": 267
+  },
+  {
+    "id": "assetType_TutorialContainer",
+    "type": "assetType",
+    "name": "TutorialContainer",
+    "description": "Assets of type TutorialContainer",
+    "asset_count": 7
+  },
+  {
+    "id": "assetType_Tutorial",
+    "type": "assetType",
+    "name": "Tutorial",
+    "description": "Assets of type Tutorial",
+    "asset_count": 6
+  },
+  {
+    "id": "assetType_TutorialWelcomePage",
+    "type": "assetType",
+    "name": "TutorialWelcomePage",
+    "description": "Assets of type TutorialWelcomePage",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_TutorialProjectSettings",
+    "type": "assetType",
+    "name": "TutorialProjectSettings",
+    "description": "Assets of type TutorialProjectSettings",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_TutorialCallbacks",
+    "type": "assetType",
+    "name": "TutorialCallbacks",
+    "description": "Assets of type TutorialCallbacks",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_Readme",
+    "type": "assetType",
+    "name": "Readme",
+    "description": "Assets of type Readme",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_UnityPlayerAccountSettings",
+    "type": "assetType",
+    "name": "UnityPlayerAccountSettings",
+    "description": "Assets of type UnityPlayerAccountSettings",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_MaterialPipelineHandler",
+    "type": "assetType",
+    "name": "MaterialPipelineHandler",
+    "description": "Assets of type MaterialPipelineHandler",
+    "asset_count": 6
+  },
+  {
+    "id": "assetType_ColorAffordanceThemeDatum",
+    "type": "assetType",
+    "name": "ColorAffordanceThemeDatum",
+    "description": "Assets of type ColorAffordanceThemeDatum",
+    "asset_count": 18
+  },
+  {
+    "id": "assetType_FloatAffordanceThemeDatum",
+    "type": "assetType",
+    "name": "FloatAffordanceThemeDatum",
+    "description": "Assets of type FloatAffordanceThemeDatum",
+    "asset_count": 11
+  },
+  {
+    "id": "assetType_Vector3AffordanceThemeDatum",
+    "type": "assetType",
+    "name": "Vector3AffordanceThemeDatum",
+    "description": "Assets of type Vector3AffordanceThemeDatum",
+    "asset_count": 2
+  },
+  {
+    "id": "assetType_FollowPresetDatum",
+    "type": "assetType",
+    "name": "FollowPresetDatum",
+    "description": "Assets of type FollowPresetDatum",
+    "asset_count": 4
+  },
+  {
+    "id": "assetType_AudioAffordanceThemeDatum",
+    "type": "assetType",
+    "name": "AudioAffordanceThemeDatum",
+    "description": "Assets of type AudioAffordanceThemeDatum",
+    "asset_count": 2
+  },
+  {
+    "id": "assetType_AnimationClip",
+    "type": "assetType",
+    "name": "AnimationClip",
+    "description": "Animation data files for character and object animations",
+    "asset_count": 3
+  },
+  {
+    "id": "assetType_VideoClip",
+    "type": "assetType",
+    "name": "VideoClip",
+    "description": "Video files used for video playback",
+    "asset_count": 5
+  },
+  {
+    "id": "assetType_XRHandShape",
+    "type": "assetType",
+    "name": "XRHandShape",
+    "description": "Assets of type XRHandShape",
+    "asset_count": 2
+  },
+  {
+    "id": "assetType_SubGraphAsset",
+    "type": "assetType",
+    "name": "SubGraphAsset",
+    "description": "Assets of type SubGraphAsset",
+    "asset_count": 48
+  },
+  {
+    "id": "assetType_HideFunction",
+    "type": "assetType",
+    "name": "HideFunction",
+    "description": "Assets of type HideFunction",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_KeyCodeFunction",
+    "type": "assetType",
+    "name": "KeyCodeFunction",
+    "description": "Assets of type KeyCodeFunction",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_LayoutFunction",
+    "type": "assetType",
+    "name": "LayoutFunction",
+    "description": "Assets of type LayoutFunction",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_ShiftFunction",
+    "type": "assetType",
+    "name": "ShiftFunction",
+    "description": "Assets of type ShiftFunction",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_ValueKeyFunction",
+    "type": "assetType",
+    "name": "ValueKeyFunction",
+    "description": "Assets of type ValueKeyFunction",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_XRKeyboardConfig",
+    "type": "assetType",
+    "name": "XRKeyboardConfig",
+    "description": "Assets of type XRKeyboardConfig",
+    "asset_count": 3
+  },
+  {
+    "id": "assetType_AnimatorController",
+    "type": "assetType",
+    "name": "AnimatorController",
+    "description": "Assets of type AnimatorController",
+    "asset_count": 2
+  },
+  {
+    "id": "assetType_TeleportVolumeDestinationSettingsDatum",
+    "type": "assetType",
+    "name": "TeleportVolumeDestinationSettingsDatum",
+    "description": "Assets of type TeleportVolumeDestinationSettingsDatum",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_GazeTeleportationAnchorFilter",
+    "type": "assetType",
+    "name": "GazeTeleportationAnchorFilter",
+    "description": "Assets of type GazeTeleportationAnchorFilter",
+    "asset_count": 2
+  },
+  {
+    "id": "assetType_Preset",
+    "type": "assetType",
+    "name": "Preset",
+    "description": "Assets of type Preset",
+    "asset_count": 13
+  },
+  {
+    "id": "assetType_HandExpressionCapture",
+    "type": "assetType",
+    "name": "HandExpressionCapture",
+    "description": "Assets of type HandExpressionCapture",
+    "asset_count": 7
+  },
+  {
+    "id": "assetType_XRHandCaptureSequence",
+    "type": "assetType",
+    "name": "XRHandCaptureSequence",
+    "description": "Assets of type XRHandCaptureSequence",
+    "asset_count": 4
+  },
+  {
+    "id": "assetType_ProbeVolumeBakingSet",
+    "type": "assetType",
+    "name": "ProbeVolumeBakingSet",
+    "description": "Assets of type ProbeVolumeBakingSet",
+    "asset_count": 2
+  },
+  {
+    "id": "assetType_OrchestratedScenario",
+    "type": "assetType",
+    "name": "OrchestratedScenario",
+    "description": "Assets of type OrchestratedScenario",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_ShaderVariantCollection",
+    "type": "assetType",
+    "name": "ShaderVariantCollection",
+    "description": "Assets of type ShaderVariantCollection",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_UniversalRenderPipelineGlobalSettings",
+    "type": "assetType",
+    "name": "UniversalRenderPipelineGlobalSettings",
+    "description": "Assets of type UniversalRenderPipelineGlobalSettings",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_UniversalRenderPipelineAsset",
+    "type": "assetType",
+    "name": "UniversalRenderPipelineAsset",
+    "description": "Assets of type UniversalRenderPipelineAsset",
+    "asset_count": 3
+  },
+  {
+    "id": "assetType_Font",
+    "type": "assetType",
+    "name": "Font",
+    "description": "Font assets for text rendering",
+    "asset_count": 18
+  },
+  {
+    "id": "assetType_TMP_SpriteAsset",
+    "type": "assetType",
+    "name": "TMP_SpriteAsset",
+    "description": "Assets of type TMP_SpriteAsset",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_TMP_StyleSheet",
+    "type": "assetType",
+    "name": "TMP_StyleSheet",
+    "description": "Assets of type TMP_StyleSheet",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_TMP_Settings",
+    "type": "assetType",
+    "name": "TMP_Settings",
+    "description": "Assets of type TMP_Settings",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_ShaderInclude",
+    "type": "assetType",
+    "name": "ShaderInclude",
+    "description": "Assets of type ShaderInclude",
+    "asset_count": 465
+  },
+  {
+    "id": "assetType_Unknown",
+    "type": "assetType",
+    "name": "Unknown",
+    "description": "Assets with unknown or unrecognized types",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_AnimatorOverrideController",
+    "type": "assetType",
+    "name": "AnimatorOverrideController",
+    "description": "Assets of type AnimatorOverrideController",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_RenderTexture",
+    "type": "assetType",
+    "name": "RenderTexture",
+    "description": "Render texture assets for off-screen rendering",
+    "asset_count": 4
+  },
+  {
+    "id": "assetType_PhysicsMaterial",
+    "type": "assetType",
+    "name": "PhysicsMaterial",
+    "description": "Physics material assets for friction and bounciness",
+    "asset_count": 3
+  },
+  {
+    "id": "assetType_Key",
+    "type": "assetType",
+    "name": "Key",
+    "description": "Assets of type Key",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_NetworkPrefabsList",
+    "type": "assetType",
+    "name": "NetworkPrefabsList",
+    "description": "Assets of type NetworkPrefabsList",
+    "asset_count": 4
+  },
+  {
+    "id": "assetType_ComputeShader",
+    "type": "assetType",
+    "name": "ComputeShader",
+    "description": "Compute shader assets for GPU computation",
+    "asset_count": 122
+  },
+  {
+    "id": "assetType_PanelSettings",
+    "type": "assetType",
+    "name": "PanelSettings",
+    "description": "UIToolkit PanelSettings configuration assets",
+    "asset_count": 2
+  },
+  {
+    "id": "assetType_VisualTreeAsset",
+    "type": "assetType",
+    "name": "VisualTreeAsset",
+    "description": "UI XML files (UXML) for UIToolkit UI definitions",
+    "asset_count": 512
+  },
+  {
+    "id": "assetType_StyleSheet",
+    "type": "assetType",
+    "name": "StyleSheet",
+    "description": "UI StyleSheet files (USS) for UIToolkit styling",
+    "asset_count": 498
+  },
+  {
+    "id": "assetType_UniversalRendererData",
+    "type": "assetType",
+    "name": "UniversalRendererData",
+    "description": "Assets of type UniversalRendererData",
+    "asset_count": 3
+  },
+  {
+    "id": "assetType_OpenXRLoader",
+    "type": "assetType",
+    "name": "OpenXRLoader",
+    "description": "Assets of type OpenXRLoader",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_SimulationLoader",
+    "type": "assetType",
+    "name": "SimulationLoader",
+    "description": "Assets of type SimulationLoader",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_XRSimulationRuntimeSettings",
+    "type": "assetType",
+    "name": "XRSimulationRuntimeSettings",
+    "description": "Assets of type XRSimulationRuntimeSettings",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_OpenXREditorSettings",
+    "type": "assetType",
+    "name": "OpenXREditorSettings",
+    "description": "Assets of type OpenXREditorSettings",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_OpenXRPackageSettings",
+    "type": "assetType",
+    "name": "OpenXRPackageSettings",
+    "description": "Assets of type OpenXRPackageSettings",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_XRSimulationSettings",
+    "type": "assetType",
+    "name": "XRSimulationSettings",
+    "description": "Assets of type XRSimulationSettings",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_XRSimulationPreferences",
+    "type": "assetType",
+    "name": "XRSimulationPreferences",
+    "description": "Assets of type XRSimulationPreferences",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_SimulationEnvironmentAssetsManager",
+    "type": "assetType",
+    "name": "SimulationEnvironmentAssetsManager",
+    "description": "Assets of type SimulationEnvironmentAssetsManager",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_XRGeneralSettingsPerBuildTarget",
+    "type": "assetType",
+    "name": "XRGeneralSettingsPerBuildTarget",
+    "description": "Assets of type XRGeneralSettingsPerBuildTarget",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_InteractionLayerSettings",
+    "type": "assetType",
+    "name": "InteractionLayerSettings",
+    "description": "Assets of type InteractionLayerSettings",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_XRDeviceSimulatorSettings",
+    "type": "assetType",
+    "name": "XRDeviceSimulatorSettings",
+    "description": "Assets of type XRDeviceSimulatorSettings",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_XRInteractionRuntimeSettings",
+    "type": "assetType",
+    "name": "XRInteractionRuntimeSettings",
+    "description": "Assets of type XRInteractionRuntimeSettings",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_XRInteractionEditorSettings",
+    "type": "assetType",
+    "name": "XRInteractionEditorSettings",
+    "description": "Assets of type XRInteractionEditorSettings",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_PackageManifest",
+    "type": "assetType",
+    "name": "PackageManifest",
+    "description": "Assets of type PackageManifest",
+    "asset_count": 52
+  },
+  {
+    "id": "assetType_EmojiDatabase",
+    "type": "assetType",
+    "name": "EmojiDatabase",
+    "description": "Assets of type EmojiDatabase",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_TextMateGrammarAsset",
+    "type": "assetType",
+    "name": "TextMateGrammarAsset",
+    "description": "Assets of type TextMateGrammarAsset",
+    "asset_count": 6
+  },
+  {
+    "id": "assetType_TextMateThemeAsset",
+    "type": "assetType",
+    "name": "TextMateThemeAsset",
+    "description": "Assets of type TextMateThemeAsset",
+    "asset_count": 2
+  },
+  {
+    "id": "assetType_ThemeStyleSheet",
+    "type": "assetType",
+    "name": "ThemeStyleSheet",
+    "description": "Theme files (TSS) for UIToolkit theming",
+    "asset_count": 17
+  },
+  {
+    "id": "assetType_NavGraphViewAsset",
+    "type": "assetType",
+    "name": "NavGraphViewAsset",
+    "description": "Assets of type NavGraphViewAsset",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_XRSimulationInputActions",
+    "type": "assetType",
+    "name": "XRSimulationInputActions",
+    "description": "Assets of type XRSimulationInputActions",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_VectorImage",
+    "type": "assetType",
+    "name": "VectorImage",
+    "description": "Assets of type VectorImage",
+    "asset_count": 7
+  },
+  {
+    "id": "assetType_AssemblyDefinitionReferenceAsset",
+    "type": "assetType",
+    "name": "AssemblyDefinitionReferenceAsset",
+    "description": "Assets of type AssemblyDefinitionReferenceAsset",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_GenreAssociatedBuildingBlocks",
+    "type": "assetType",
+    "name": "GenreAssociatedBuildingBlocks",
+    "description": "Assets of type GenreAssociatedBuildingBlocks",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_CategoriesDescription",
+    "type": "assetType",
+    "name": "CategoriesDescription",
+    "description": "Assets of type CategoriesDescription",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_GameGenreList",
+    "type": "assetType",
+    "name": "GameGenreList",
+    "description": "Assets of type GameGenreList",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_GettingStartedSamplesList",
+    "type": "assetType",
+    "name": "GettingStartedSamplesList",
+    "description": "Assets of type GettingStartedSamplesList",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_Recommendations",
+    "type": "assetType",
+    "name": "Recommendations",
+    "description": "Assets of type Recommendations",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_NetStatsMonitorConfiguration",
+    "type": "assetType",
+    "name": "NetStatsMonitorConfiguration",
+    "description": "Assets of type NetStatsMonitorConfiguration",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_LensFlareDataSRP",
+    "type": "assetType",
+    "name": "LensFlareDataSRP",
+    "description": "Assets of type LensFlareDataSRP",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_AppUISettings",
+    "type": "assetType",
+    "name": "AppUISettings",
+    "description": "Assets of type AppUISettings",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_ShaderGraphHeatmapValues",
+    "type": "assetType",
+    "name": "ShaderGraphHeatmapValues",
+    "description": "Assets of type ShaderGraphHeatmapValues",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_CommonTutorialCallbacks",
+    "type": "assetType",
+    "name": "CommonTutorialCallbacks",
+    "description": "Assets of type CommonTutorialCallbacks",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_MaskingPreset",
+    "type": "assetType",
+    "name": "MaskingPreset",
+    "description": "Assets of type MaskingPreset",
+    "asset_count": 7
+  },
+  {
+    "id": "assetType_TutorialStyles",
+    "type": "assetType",
+    "name": "TutorialStyles",
+    "description": "Assets of type TutorialStyles",
+    "asset_count": 1
+  },
+  {
+    "id": "assetType_LocalizationAsset",
+    "type": "assetType",
+    "name": "LocalizationAsset",
+    "description": "Assets of type LocalizationAsset",
+    "asset_count": 5
+  },
+  {
+    "id": "assetType_SceneTemplateAsset",
+    "type": "assetType",
+    "name": "SceneTemplateAsset",
+    "description": "Assets of type SceneTemplateAsset",
+    "asset_count": 3
+  },
+  {
+    "id": "assetType_PostProcessData",
+    "type": "assetType",
+    "name": "PostProcessData",
+    "description": "Assets of type PostProcessData",
+    "asset_count": 3
+  }
+]

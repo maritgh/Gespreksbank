@@ -1,0 +1,521 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-123:12
+MERGED from [:openxr_loader:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d4ea3c698e884249ed79b43ddcdcbbcb/transformed/jetified-openxr_loader/AndroidManifest.xml:1:1-29:12
+MERGED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:2:1-32:12
+MERGED from [:com.unity3d.insights:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7eec0af739509ccaca99a884c93c60f3/transformed/jetified-com.unity3d.insights/AndroidManifest.xml:2:1-7:12
+MERGED from [:unityLibrary:xrmanifest.androidlib] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/f8e5f85a6ab6509801ce27e9028c9e69/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/a3acf552d95465ea466908e2c6dec4b0/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/e69014f3239f854c09fa30c74d5fed67/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/55b7d3ce9d04d2064193214f5d15230d/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/96aa6557333a65b75f1f8a4c492e07f8/transformed/jetified-activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/2b9725f6552e6235af05f6780a18bc2c/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ac23d57dc94ce6df9ae533a4cb56278/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ff4db5255f72951b9a23940c4dbb2663/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/9e4acbd0fb075a6839f13f641516ef0b/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/c92621e060dc2140790eb9221d4cfa38/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d8df2e9aacd3a730b61fe4f0b5a305fe/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/c55a2a19616a79a7a22d2d79d93022a1/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/9adaab7648c7be678ec2c73290fb9c7c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d828b707ef30bd4d7a694a80a0937cab/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ec0ed48e50ec01367f3741f45a3620f1/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/5df231d89645f61a989eee47ef71c6de/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ddc5949567f8977344438ba0c18c96b/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.games:games-activity:4.4.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/0cd2b774598c99c2e25cb70828d5fb95/transformed/jetified-games-activity-4.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/102c26784580dd4a09219b4d6083ad9d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/54103a19f80b716c39a8bcfea90fe3b1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/8f0ae04067ca78204d1854833f328d37/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/74adb10398a67e7a4d74b261dcb1ffcd/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/6cb38c8b1e5659591c15cf4d0aa8b12f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ddbaf2172fccc02dc2b9199e875841fc/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/b0716310a9ad55f4fbecff80ebad88f4/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/725f0516f66c7b225d64cb1e0d474586/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/47b9449045febe0b998c873f96071ef4/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/9c9b47c74ad728690002d23367672d94/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/b7d08a1990b7d519a8951534be9937c2/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/c98a5e58b5a95d0b1541ae6ca42158bc/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:2:101-147
+	android:versionCode
+		INJECTED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:2:42-100
+	android:installLocation
+		ADDED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:2:11-41
+application
+ADDED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:3:3-83
+INJECTED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:3:3-83
+MERGED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:37:5-121:19
+MERGED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:37:5-121:19
+MERGED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:30:5-20
+MERGED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:30:5-20
+MERGED from [:unityLibrary:xrmanifest.androidlib] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:12:5-24:19
+MERGED from [:unityLibrary:xrmanifest.androidlib] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:12:5-24:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/f8e5f85a6ab6509801ce27e9028c9e69/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/f8e5f85a6ab6509801ce27e9028c9e69/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ff4db5255f72951b9a23940c4dbb2663/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ff4db5255f72951b9a23940c4dbb2663/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ddc5949567f8977344438ba0c18c96b/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ddc5949567f8977344438ba0c18c96b/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/54103a19f80b716c39a8bcfea90fe3b1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/54103a19f80b716c39a8bcfea90fe3b1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/6cb38c8b1e5659591c15cf4d0aa8b12f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/6cb38c8b1e5659591c15cf4d0aa8b12f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ddbaf2172fccc02dc2b9199e875841fc/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ddbaf2172fccc02dc2b9199e875841fc/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml
+		REJECTED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:40:9-41
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ddc5949567f8977344438ba0c18c96b/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:3:48-80
+	android:appCategory
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:38:9-35
+	android:icon
+		ADDED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:3:16-47
+	android:enableOnBackInvokedCallback
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:39:9-52
+supports-screens
+ADDED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml:4:135-160
+uses-sdk
+INJECTED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:6:5-44
+MERGED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:6:5-44
+MERGED from [:openxr_loader:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d4ea3c698e884249ed79b43ddcdcbbcb/transformed/jetified-openxr_loader/AndroidManifest.xml:11:3-72
+MERGED from [:openxr_loader:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d4ea3c698e884249ed79b43ddcdcbbcb/transformed/jetified-openxr_loader/AndroidManifest.xml:11:3-72
+MERGED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:7:5-44
+MERGED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:7:5-44
+MERGED from [:com.unity3d.insights:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7eec0af739509ccaca99a884c93c60f3/transformed/jetified-com.unity3d.insights/AndroidManifest.xml:5:5-44
+MERGED from [:com.unity3d.insights:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7eec0af739509ccaca99a884c93c60f3/transformed/jetified-com.unity3d.insights/AndroidManifest.xml:5:5-44
+MERGED from [:unityLibrary:xrmanifest.androidlib] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:unityLibrary:xrmanifest.androidlib] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/f8e5f85a6ab6509801ce27e9028c9e69/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/f8e5f85a6ab6509801ce27e9028c9e69/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/a3acf552d95465ea466908e2c6dec4b0/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/a3acf552d95465ea466908e2c6dec4b0/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/e69014f3239f854c09fa30c74d5fed67/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/e69014f3239f854c09fa30c74d5fed67/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/55b7d3ce9d04d2064193214f5d15230d/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/55b7d3ce9d04d2064193214f5d15230d/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/96aa6557333a65b75f1f8a4c492e07f8/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/96aa6557333a65b75f1f8a4c492e07f8/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/2b9725f6552e6235af05f6780a18bc2c/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/2b9725f6552e6235af05f6780a18bc2c/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ac23d57dc94ce6df9ae533a4cb56278/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ac23d57dc94ce6df9ae533a4cb56278/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ff4db5255f72951b9a23940c4dbb2663/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ff4db5255f72951b9a23940c4dbb2663/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/9e4acbd0fb075a6839f13f641516ef0b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/9e4acbd0fb075a6839f13f641516ef0b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/c92621e060dc2140790eb9221d4cfa38/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/c92621e060dc2140790eb9221d4cfa38/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d8df2e9aacd3a730b61fe4f0b5a305fe/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d8df2e9aacd3a730b61fe4f0b5a305fe/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/c55a2a19616a79a7a22d2d79d93022a1/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/c55a2a19616a79a7a22d2d79d93022a1/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/9adaab7648c7be678ec2c73290fb9c7c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/9adaab7648c7be678ec2c73290fb9c7c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d828b707ef30bd4d7a694a80a0937cab/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d828b707ef30bd4d7a694a80a0937cab/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ec0ed48e50ec01367f3741f45a3620f1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ec0ed48e50ec01367f3741f45a3620f1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/5df231d89645f61a989eee47ef71c6de/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/5df231d89645f61a989eee47ef71c6de/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ddc5949567f8977344438ba0c18c96b/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ddc5949567f8977344438ba0c18c96b/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.games:games-activity:4.4.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/0cd2b774598c99c2e25cb70828d5fb95/transformed/jetified-games-activity-4.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.games:games-activity:4.4.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/0cd2b774598c99c2e25cb70828d5fb95/transformed/jetified-games-activity-4.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/102c26784580dd4a09219b4d6083ad9d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/102c26784580dd4a09219b4d6083ad9d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/54103a19f80b716c39a8bcfea90fe3b1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/54103a19f80b716c39a8bcfea90fe3b1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/8f0ae04067ca78204d1854833f328d37/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/8f0ae04067ca78204d1854833f328d37/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/74adb10398a67e7a4d74b261dcb1ffcd/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/74adb10398a67e7a4d74b261dcb1ffcd/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/6cb38c8b1e5659591c15cf4d0aa8b12f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/6cb38c8b1e5659591c15cf4d0aa8b12f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ddbaf2172fccc02dc2b9199e875841fc/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ddbaf2172fccc02dc2b9199e875841fc/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/b0716310a9ad55f4fbecff80ebad88f4/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/b0716310a9ad55f4fbecff80ebad88f4/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/725f0516f66c7b225d64cb1e0d474586/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/725f0516f66c7b225d64cb1e0d474586/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/47b9449045febe0b998c873f96071ef4/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/47b9449045febe0b998c873f96071ef4/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/9c9b47c74ad728690002d23367672d94/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/9c9b47c74ad728690002d23367672d94/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/b7d08a1990b7d519a8951534be9937c2/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/b7d08a1990b7d519a8951534be9937c2/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/c98a5e58b5a95d0b1541ae6ca42158bc/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/c98a5e58b5a95d0b1541ae6ca42158bc/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:22-63
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:5-67
+MERGED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:11:5-67
+MERGED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:5-79
+MERGED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:9:5-79
+MERGED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:5-71
+MERGED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:13:5-71
+MERGED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:12:5-80
+MERGED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:12:5-80
+MERGED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:5-68
+MERGED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:15:5-68
+MERGED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:22-65
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:15:5-17:35
+	android:required
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:17:9-32
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:16:9-55
+uses-feature#android.hardware.microphone
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:18:5-20:36
+MERGED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:17:5-19:35
+MERGED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:17:5-19:35
+	android:required
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:19:9-51
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:21:5-23:36
+MERGED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:26:5-28:36
+MERGED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:22:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:25:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:28:9-72
+uses-permission#com.oculus.permission.HAND_TRACKING
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:31:5-75
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:31:22-72
+uses-feature#oculus.software.handtracking
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:34:9-52
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:41:9-43:33
+	android:value
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:43:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:42:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:44:9-46:36
+	android:value
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:46:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:45:13-47
+meta-data#unity.requested-visible-insets
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:47:9-49:32
+	android:value
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:49:13-29
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:48:13-58
+meta-data#unity.system-bars-behavior
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:50:9-52:56
+	android:value
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:52:13-53
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:51:13-54
+meta-data#unity.render-outside-safearea
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:53:9-55:36
+	android:value
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:55:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:54:13-57
+meta-data#notch.config
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:56:9-58:50
+	android:value
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:58:13-47
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:57:13-40
+meta-data#unity.auto-report-fully-drawn
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:59:9-61:36
+	android:value
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:61:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:60:13-57
+meta-data#unity.strip-engine-code
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:62:9-64:36
+	android:value
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:64:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:63:13-51
+meta-data#unity.run-without-focus
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:65:9-67:36
+	android:value
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:67:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:66:13-51
+meta-data#unity.auto-set-game-state
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:68:9-70:36
+	android:value
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:70:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:69:13-53
+activity#com.unity3d.player.UnityPlayerGameActivity
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:72:9-120:20
+MERGED from [:unityLibrary:xrmanifest.androidlib] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:9-19:20
+MERGED from [:unityLibrary:xrmanifest.androidlib] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:9-19:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:80:13-50
+	android:enabled
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:75:13-35
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:78:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:77:13-48
+	android:exported
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:76:13-36
+	android:resizeableActivity
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:79:13-46
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:74:13-194
+	android:theme
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:81:13-62
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:73:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.oculus.intent.category.VR
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:82:13-88:29
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:83:17-77
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:83:27-74
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:85:17-69
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:85:25-66
+category#com.oculus.intent.category.VR
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:87:17-74
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:87:27-71
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:90:13-92:40
+	android:value
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:92:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:91:17-57
+meta-data#android.app.lib_name
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:93:13-95:40
+	android:value
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:95:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:94:17-52
+meta-data#WindowManagerPreference:FreeformWindowSize
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:96:13-98:71
+	android:value
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:98:17-68
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:97:17-74
+meta-data#WindowManagerPreference:FreeformWindowOrientation
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:99:13-101:79
+	android:value
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:101:17-76
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:100:17-81
+meta-data#notch_support
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:102:13-104:40
+	android:value
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:104:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:103:17-45
+layout
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:106:13-108:44
+	android:minWidth
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:108:17-41
+	android:minHeight
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:107:17-42
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:com.unityplayeraccounts.99a15c5f-70df-40fd-91a5-660994b70553+data:scheme:unitydl
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:110:13-119:29
+	xmlns:android
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:110:28-86
+action#android.intent.action.VIEW
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:111:17-69
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:111:25-66
+category#android.intent.category.DEFAULT
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:113:17-76
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:113:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:114:17-78
+	android:name
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:114:27-75
+data
+ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:116:17-118:48
+	android:host
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:117:21-96
+	android:scheme
+		ADDED from [:unityLibrary] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:118:21-45
+uses-permission#org.khronos.openxr.permission.OPENXR
+ADDED from [:openxr_loader:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d4ea3c698e884249ed79b43ddcdcbbcb/transformed/jetified-openxr_loader/AndroidManifest.xml:13:3-74
+	android:name
+		ADDED from [:openxr_loader:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d4ea3c698e884249ed79b43ddcdcbbcb/transformed/jetified-openxr_loader/AndroidManifest.xml:13:20-71
+uses-permission#org.khronos.openxr.permission.OPENXR_SYSTEM
+ADDED from [:openxr_loader:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d4ea3c698e884249ed79b43ddcdcbbcb/transformed/jetified-openxr_loader/AndroidManifest.xml:14:3-81
+	android:name
+		ADDED from [:openxr_loader:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d4ea3c698e884249ed79b43ddcdcbbcb/transformed/jetified-openxr_loader/AndroidManifest.xml:14:20-78
+queries
+ADDED from [:openxr_loader:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d4ea3c698e884249ed79b43ddcdcbbcb/transformed/jetified-openxr_loader/AndroidManifest.xml:16:3-27:13
+provider
+ADDED from [:openxr_loader:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d4ea3c698e884249ed79b43ddcdcbbcb/transformed/jetified-openxr_loader/AndroidManifest.xml:18:5-114
+	android:authorities
+		ADDED from [:openxr_loader:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d4ea3c698e884249ed79b43ddcdcbbcb/transformed/jetified-openxr_loader/AndroidManifest.xml:18:15-111
+intent#action:name:org.khronos.openxr.OpenXRRuntimeService
+ADDED from [:openxr_loader:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d4ea3c698e884249ed79b43ddcdcbbcb/transformed/jetified-openxr_loader/AndroidManifest.xml:21:5-23:14
+action#org.khronos.openxr.OpenXRRuntimeService
+ADDED from [:openxr_loader:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d4ea3c698e884249ed79b43ddcdcbbcb/transformed/jetified-openxr_loader/AndroidManifest.xml:22:7-72
+	android:name
+		ADDED from [:openxr_loader:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d4ea3c698e884249ed79b43ddcdcbbcb/transformed/jetified-openxr_loader/AndroidManifest.xml:22:15-69
+intent#action:name:org.khronos.openxr.OpenXRApiLayerService
+ADDED from [:openxr_loader:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d4ea3c698e884249ed79b43ddcdcbbcb/transformed/jetified-openxr_loader/AndroidManifest.xml:24:5-26:14
+action#org.khronos.openxr.OpenXRApiLayerService
+ADDED from [:openxr_loader:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d4ea3c698e884249ed79b43ddcdcbbcb/transformed/jetified-openxr_loader/AndroidManifest.xml:25:7-73
+	android:name
+		ADDED from [:openxr_loader:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/d4ea3c698e884249ed79b43ddcdcbbcb/transformed/jetified-openxr_loader/AndroidManifest.xml:25:15-70
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:14:22-73
+uses-feature#android.hardware.wifi
+ADDED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:21:9-45
+uses-feature#android.hardware.telephony
+ADDED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:VivoxNative:] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ea4104e57d1d7f7dc510f42d1506ab9/transformed/jetified-VivoxNative/AndroidManifest.xml:24:9-50
+uses-feature#android.hardware.vr.headtracking
+ADDED from [:unityLibrary:xrmanifest.androidlib] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-10:31
+	android:version
+		ADDED from [:unityLibrary:xrmanifest.androidlib] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:9-28
+	android:required
+		ADDED from [:unityLibrary:xrmanifest.androidlib] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:9-32
+	android:name
+		ADDED from [:unityLibrary:xrmanifest.androidlib] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:9-56
+meta-data#com.oculus.vr.focusaware
+ADDED from [:unityLibrary:xrmanifest.androidlib] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:16:13-18:40
+	android:value
+		ADDED from [:unityLibrary:xrmanifest.androidlib] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:18:17-37
+	android:name
+		ADDED from [:unityLibrary:xrmanifest.androidlib] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:17:17-56
+meta-data#com.oculus.supportedDevices
+ADDED from [:unityLibrary:xrmanifest.androidlib] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:21:9-23:67
+	android:value
+		ADDED from [:unityLibrary:xrmanifest.androidlib] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:23:13-64
+	android:name
+		ADDED from [:unityLibrary:xrmanifest.androidlib] /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:22:13-55
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ff4db5255f72951b9a23940c4dbb2663/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/54103a19f80b716c39a8bcfea90fe3b1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/54103a19f80b716c39a8bcfea90fe3b1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ddbaf2172fccc02dc2b9199e875841fc/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ddbaf2172fccc02dc2b9199e875841fc/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ff4db5255f72951b9a23940c4dbb2663/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ff4db5255f72951b9a23940c4dbb2663/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ff4db5255f72951b9a23940c4dbb2663/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ff4db5255f72951b9a23940c4dbb2663/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ff4db5255f72951b9a23940c4dbb2663/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ff4db5255f72951b9a23940c4dbb2663/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/ff4db5255f72951b9a23940c4dbb2663/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ddc5949567f8977344438ba0c18c96b/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ddc5949567f8977344438ba0c18c96b/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ddc5949567f8977344438ba0c18c96b/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.cozyrooms.tussenruimte.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ddc5949567f8977344438ba0c18c96b/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ddc5949567f8977344438ba0c18c96b/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ddc5949567f8977344438ba0c18c96b/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ddc5949567f8977344438ba0c18c96b/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ddc5949567f8977344438ba0c18c96b/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.cozyrooms.tussenruimte.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ddc5949567f8977344438ba0c18c96b/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/7ddc5949567f8977344438ba0c18c96b/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/54103a19f80b716c39a8bcfea90fe3b1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/54103a19f80b716c39a8bcfea90fe3b1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/maritsnijder/.gradle/caches/9.3.1/transforms/54103a19f80b716c39a8bcfea90fe3b1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78

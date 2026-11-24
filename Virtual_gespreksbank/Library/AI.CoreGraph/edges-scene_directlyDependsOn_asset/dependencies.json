@@ -1,0 +1,3173 @@
+[
+  {
+    "src_id": "scene_Assets_Samples_XR_Hands_1_8_1_HandVisualizer_HandVisualizer_unity",
+    "dst_id": "asset_Packages_com_unity_xr_core_utils_Runtime_XROrigin_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Hands_1_8_1_HandVisualizer_HandVisualizer_unity",
+    "dst_id": "asset_Packages_com_unity_xr_legacyinputhelpers_Runtime_TrackedPoseDriver_TrackedPoseDriver_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Hands_1_8_1_HandVisualizer_HandVisualizer_unity",
+    "dst_id": "asset_Assets_Samples_XR_Hands_1_8_1_HandVisualizer_Prefabs_Hand_Debug_Visualizer_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Hands_1_8_1_HandVisualizer_HandVisualizer_unity",
+    "dst_id": "asset_Packages_com_unity_inputsystem_InputSystem_Runtime_Plugins_XR_TrackedPoseDriver_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Prefabs_Cylinder_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Prefabs_Teleport_Anchor_Animated_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Materials_FrameOutline_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Materials_ShadowCircular_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_XRI_Default_Input_Actions_inputactions",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_Layout_HorizontalLayoutGroup_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Materials_EnvironmentTan_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Prefabs_PawnController_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_TMP_TextMeshProUGUI_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_Prefabs_HandTeleportInteractor_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Materials_ArtSphereTransparentInner2_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Prefabs_PokeButton_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Prefabs_UI_Text_Toggle_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Materials_EnvironmentParticles_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_LightingData_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_UI_XRUIInputModule_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Models_Frame_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Prefabs_UI_Icon_Toggle_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Materials_BrushedMetal_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_Image_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Prefabs_UI_Dropdown_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Prefabs_UI_TouchPadButton_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Prefabs_Cube_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_Toggle_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_Prefabs_Permissions_Manager_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Prefabs_SimpleSocket_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Models_Semisphere_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Models_Environment_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Prefabs_UI_ButtonHandMenu_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Scripts_ObjectResetPlane_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Materials_EnvironmentBlueTransparent50_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Interaction_XRInteractionManager_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Scripts_Utilities_RotationOscillator_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_Layout_LayoutElement_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Prefabs_UI_MinMaxSlider_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_Layout_ContentSizeFitter_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Materials_ArtSphereTransparentInner1_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Materials_Skybox_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Prefabs_UI_Tutorial_Player_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Prefabs_SimpleSocketShape_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Prefabs_DiscController_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Materials_EnvironmentBlueTransparent75_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Materials_Grid_Dark_Large_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Models_VirtualTabletop_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Audio_MainAudioMixer_mixer",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_Layout_CanvasScaler_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Interaction_Interactors_NearFarInteractor_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_UI_TrackedDeviceGraphicRaycaster_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Inputs_InputActionManager_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Prefabs_UI_ScrollView_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Sprites_Circle_60x60_Horizontal_png",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Materials_UnityLogo_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Prefabs_Teleport_Anchor_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Prefabs_UI_Icon_Button_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Prefabs_UI_TextButton_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Prefabs_Arrow_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Scripts_Utilities_PositionOscillator_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_GraphicRaycaster_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Prefabs_TableHandle_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Prefabs_Teleport_Floor_Area_Rounded_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Materials_ArtSphereTransparentInner3_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Settings_SampleLightingSettings_lighting",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_EventSystem_EventSystem_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Models_Chess_Chess_Board_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Models_UnityLogo_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Materials_EnvironmentLightBlue_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Scripts_Utilities_Billboard_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Materials_ArtSphereTransparentInner4_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_Layout_VerticalLayoutGroup_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Audio_AmbientBackgroundNoise_mp3",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_TextMesh_Pro_Resources_Fonts_&_Materials_LiberationSans_SDF_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Materials_Table_Surface_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Prefabs_Teleport_Floor_Area_Roof_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_DemoAssets_Materials_Grid_Dark_Tight_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_Prefabs_XR_Origin_Hands_(XR_Rig)_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Sprites_Round_Radius_4_png",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Interaction_XRInteractionManager_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_Layout_ContentSizeFitter_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_XRI_Default_Input_Actions_inputactions",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_Layout_CanvasScaler_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_UI_TrackedDeviceGraphicRaycaster_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_TMP_TextMeshProUGUI_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_GraphicRaycaster_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_UI_XRUIInputModule_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_EventSystem_EventSystem_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_Scripts_XRKeyboard_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_Prefabs_Input_Field_Global_Keyboard_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_Prefabs_XRI_Number_Pad_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_Image_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_Layout_VerticalLayoutGroup_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_Prefabs_Input_Field_World_Keyboard_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Assets_TextMesh_Pro_Resources_Fonts_&_Materials_LiberationSans_SDF_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_Prefabs_XR_Origin_(XR_Rig)_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Prefabs_Teleport_Teleport_Area_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_Prefabs_XRI_Global_Keyboard_Manager_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_Prefabs_XRI_Keyboard_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Locomotion_Turning_ContinuousTurnProvider_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_Materials_Flat_Blue_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Interaction_XRInteractionManager_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Locomotion_Climbing_ClimbProvider_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Prefabs_Climb_Climb_Sample_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_Layout_ContentSizeFitter_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Prefabs_Far_Grab_Samples_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Locomotion_Movement_TwoHandedGrabMoveProvider_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_XRI_Default_Input_Actions_inputactions",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Prefabs_Interactables_Sample_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_Layout_CanvasScaler_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_Prefabs_Affordances_HighlightInteractionAffordance_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_UI_TrackedDeviceGraphicRaycaster_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_TunnelingVignette_TunnelingVignette_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Prefabs_Teleportation_Environment_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Materials_Lit_White_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Materials_Concrete_Grey_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_TMP_TextMeshProUGUI_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Prefabs_Teleport_Snap_Teleport_Anchor_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_Materials_Interactable_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Prefabs_Poke_Interactions_Sample_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_GraphicRaycaster_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Prefabs_GazeActivationZone_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_UI_XRUIInputModule_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_EventSystem_EventSystem_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Locomotion_Movement_GrabMoveProvider_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Prefabs_UI_Sample_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_Image_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_Scripts_DynamicMoveProvider_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Locomotion_Turning_SnapTurnProvider_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_Prefabs_XR_Origin_(XR_Rig)_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Assets_TextMesh_Pro_Resources_Fonts_&_Materials_LiberationSans_SDF_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Audio_Button_Pop_wav",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Interaction_Interactables_XRSimpleInteractable_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Locomotion_Teleportation_TeleportationProvider_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Meshes_EnvironmentMeshes_Long_Table_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_NetworkInteractableSpawner_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_Network_NetworkManagers_XRINetworkGameManager_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_Layout_CanvasScaler_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_UI_TrackedDeviceGraphicRaycaster_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_Managers_Network_Manager_VR_Multiplayer_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_TMP_TextMeshProUGUI_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Prefabs_UI_TextButton_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_Player_ConnectionToggler_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_GraphicRaycaster_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Meshes_EnvironmentMeshes_MP_Level_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_Helpers_ObjectReset_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Assets_Scenes_SampleScene_OcclusionCullingData_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Materials_SkyboxMaterials_skybox01_openGL_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_PrefabVariants_XR_Origin_Hands_(XR_Rig)_MP_Template_Variant_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_Kinematic_FlatCube___Kinematic_(Networked)_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_Managers_XRI_Network_Game_Manager_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalLightData_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_Velocity_Sphere___Velocity_(Networked)_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Assets_TextMesh_Pro_Resources_Fonts_&_Materials_LiberationSans_SDF_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_BasicScene_unity",
+    "dst_id": "asset_Packages_com_unity_learn_iet_framework_Runtime_SceneObjectGuid_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_UIPrefabs_MenuUI_Offline_Menu_UI_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_Sandbox_Toy_Domino_Networked_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Meshes_SandboxToys_Toy_Pipe_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Meshes_SandboxToys_Toy_Ball_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_Helpers_VersionText_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_Sandbox_Toy_Ball_Networked_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_TMP_TextMeshProUGUI_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_Player_ConnectionToggler_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_UIPrefabs_Spatial_Panel_UI_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Meshes_Launcher_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_Scenes_SampleScene_OcclusionCullingData_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_PrefabVariants_XR_Origin_Hands_(XR_Rig)_MP_Template_Variant_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_UI_XRUIInputModule_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_MiniGames_MiniGamePrefabs_Slingshot_Mini_Game___Slingshot_(Variant)_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_UI_OfflineMenu_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_Helpers_Billboard_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_Sandbox_Toy_PipeFan_Networked_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_MiniGames_MiniGamePrefabs_WhackAPig_Mallet_Networked_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_UI_PlayerList_PlayerListUI_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Meshes_SandboxToys_Toy_Dice_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_Sandbox_Toy_HalfPipe_Networked_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_Permissions_Manager_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_Object_Maniplator_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Meshes_SandboxToys_Toy_Destroyer_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Audio_SFXClips_spring_birds_loop_with_low_cut_new_jersey_6267_mp3",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Settings_XRMPTLightingSettings(High)_lighting",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Textures_SkyboxTextures_skybox01_openGL_png",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_Helpers_LightBakeUtility_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_NetworkInteractableSpawner_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_OtherPrefabs_Launcher_Networked_Interactable_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Meshes_SandboxToys_Toy_Halfpipe_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_Sandbox_Toy_Bouncepad_Networked_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_Helpers_PoolerProjectiles_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_Sandbox_Toy_Destroyer_Networked_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Meshes_SandboxToys_Toy_Domino_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_SphereProjectile_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_Layout_CanvasScaler_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_MiniGames_MiniGameMeshes_Mallet_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_UI_TrackedDeviceGraphicRaycaster_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_Managers_Network_Manager_VR_Multiplayer_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_UIPrefabs_MenuUI_MessageBoard_Message_Board_UI_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_Sandbox_Toy_Dice_Networked_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_UI_Core_GraphicRaycaster_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_Helpers_ObjectReset_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Materials_SkyboxMaterials_skybox01_openGL_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_UIPrefabs_Static_Persistent_UI_Objects_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Tutorial_TutorialPrefabs_Tutorial_Player_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_MiniGames_MiniGamePrefabs_WhackAPig_Mini_Game___Whack_A_Pig_(Variant)_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Meshes_SandboxToys_Toy_Bouncepad_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_Scenes_SampleScene_LightingData_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_Managers_XRI_Network_Game_Manager_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_Network_NetworkInteractions_NetworkPhysicsInteractable_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_UIPrefabs_MenuUI_Room_Info_UI_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_Environment_Level_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_EventSystem_EventSystem_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Audio_Main_mixer",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_MiniGames_MiniGamePrefabs_Climbing_Mini_Game___Climber_(Variant)_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Packages_com_unity_services_multiplayer_Runtime_DistributedAuthority_SDK_DistributedAuthorityTransport_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_MiniGames_MiniGameMeshes_Mallet_LO1_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_TextMesh_Pro_Resources_Fonts_&_Materials_LiberationSans_SDF_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_UIPrefabs_MenuUI_Music_Player_UI_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_UI_PlayerList_PlayerListInitializer_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_UI_WorldCanvas_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Packages_com_unity_learn_iet_framework_Runtime_SceneObjectGuid_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_Scenes_SampleScene_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_Teleport_Anchor_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_netcode_gameobjects_Tests_Editor_Build_BuildTestScene_unity",
+    "dst_id": "asset_Packages_com_unity_netcode_gameobjects_Runtime_Core_NetworkManager_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_androidxr_openxr_Tests_Runtime_Anchors_Scene_AnchorsRuntimeTests_unity",
+    "dst_id": "asset_Packages_com_unity_xr_arfoundation_Runtime_ARFoundation_Anchors_ARAnchorManager_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_androidxr_openxr_Tests_Runtime_Anchors_Scene_AnchorsRuntimeTests_unity",
+    "dst_id": "asset_Packages_com_unity_xr_androidxr_openxr_Tests_Runtime_Anchors_Scene_Anchor_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_androidxr_openxr_Tests_Runtime_Anchors_Scene_AnchorsRuntimeTests_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalLightData_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Basic_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalCameraData_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Basic_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalLightData_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_LightingData_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Ground_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_RenderPipelineResources_Mesh_BackgroundMesh_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Emissive_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalCameraData_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Black_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_GlobalVolumeProfile_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Lighting_ProbeVolume_ProbeVolumePerSceneData_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_RenderPipelineResources_Mesh_SamplesFixture_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Camera_FreeCamera_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_RenderPipelineResources_Mesh_SamplesSpotlightModel_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_RenderPipelineResources_Mesh_SamplesFloorSpotlight_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Metal_Black_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Gold_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Volume_Volume_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalLightData_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_RenderPipelineResources_Mesh_UnityMaterialBall_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_White_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Lighting_ProbeVolume_ProbeVolume_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Ground_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalCameraData_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Black_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_LightingData_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Camera_FreeCamera_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Gold_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Volume_Volume_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalLightData_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_GlobalVolumeProfile_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_RenderPipelineResources_Mesh_UnityMaterialBall_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_White_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Lighting_ProbeVolume_ProbeVolume_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_compositionlayers_Runtime_Scenes_CompositionSplash_unity",
+    "dst_id": "asset_Packages_com_unity_xr_compositionlayers_Runtime_Extensions_TexturesExtension_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_compositionlayers_Runtime_Scenes_CompositionSplash_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalCameraData_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_compositionlayers_Runtime_Scenes_CompositionSplash_unity",
+    "dst_id": "asset_Packages_com_unity_xr_compositionlayers_Runtime_CompositionOutline_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_compositionlayers_Runtime_Scenes_CompositionSplash_unity",
+    "dst_id": "asset_Packages_com_unity_xr_compositionlayers_Runtime_CompositionLayer_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_compositionlayers_Runtime_Scenes_CompositionSplash_unity",
+    "dst_id": "asset_Packages_com_unity_xr_legacyinputhelpers_Runtime_TrackedPoseDriver_TrackedPoseDriver_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_compositionlayers_Runtime_Scenes_CompositionSplash_unity",
+    "dst_id": "asset_Packages_com_unity_xr_compositionlayers_Runtime_Textures_Logo_MadeWithUnity_png",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_compositionlayers_Runtime_Scenes_CompositionSplash_unity",
+    "dst_id": "asset_Packages_com_unity_xr_compositionlayers_Runtime_Extensions_ColorScaleBiasExtension_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_compositionlayers_Runtime_Scenes_CompositionSplash_unity",
+    "dst_id": "asset_Packages_com_unity_xr_compositionlayers_Runtime_CompositionSplash_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene1_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Interaction_XRInteractionManager_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene2_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Interaction_XRInteractionManager_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene3_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Interaction_XRInteractionManager_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene4_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_XRI_Default_Input_Actions_inputactions",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene4_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_UI_XRUIInputModule_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene4_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_EventSystem_EventSystem_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene4a_unity",
+    "dst_id": "asset_Packages_com_unity_ugui_Runtime_UGUI_EventSystem_EventSystem_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene5_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Interaction_XRInteractionManager_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene5_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Interaction_Interactables_XRSimpleInteractable_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene6_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Interaction_Interactables_XRSimpleInteractable_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene7_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Interaction_XRInteractionManager_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene8_unity",
+    "dst_id": "asset_Packages_com_unity_xr_interaction_toolkit_Runtime_Interaction_XRInteractionManager_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Tests_Conecast_Stress_Test_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Models_Primitive_Torus_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Tests_Conecast_Stress_Test_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Prefabs_Interactables_Torus_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Tests_Conecast_Stress_Test_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Prefabs_Teleport_Snap_Teleport_Anchor_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Tests_Conecast_Stress_Test_unity",
+    "dst_id": "asset_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoAssets_Prefabs_Interactables_Cylinder_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Tests_Conecast_Stress_Test_unity",
+    "dst_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalLightData_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_0_440_0_400_0_180_0_075_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Plant_soil_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Terracotta_planter_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_Helpers_VersionText_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room1_door_glow_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room1_cushion_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_0_025_0_550_0_510_0_010_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Walnut_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Dusk_band_0_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room4_accent_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_Scenes_SampleScene_OcclusionCullingData_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room5_rug_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_UI_OfflineMenu_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_0_880_1_160_0_070_0_025_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Meshes_Launcher_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_1_450_0_190_0_760_0_085_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_Helpers_Billboard_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room2_cushion_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Runtime_World_CozyRoomAnchor_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Dusk_band_3_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_Permissions_Manager_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room4_rug_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_0_265_0_041_0_200_0_008_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room2_plaster_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_0_300_0_430_0_018_0_008_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room2_door_glow_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room_oak_floor_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room2_accent_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Meshes_SandboxToys_Toy_Halfpipe_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_Sandbox_Toy_Destroyer_Networked_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Runtime_Networking_CozyRoomDirectory_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_SphereProjectile_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_2_350_0_100_0_550_0_040_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Linen_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Evening_sun_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Meshes_SandboxToys_Toy_Bouncepad_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_UIPrefabs_MenuUI_Room_Info_UI_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_0_075_0_290_0_250_0_012_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_MiniGames_MiniGameMeshes_Mallet_LO1_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_TextMesh_Pro_Resources_Fonts_&_Materials_LiberationSans_SDF_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_2_420_0_025_25_800_0_012_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Runtime_Networking_CozySessionBrowser_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Hall_warm_plaster_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Dusk_band_4_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_0_160_0_420_0_440_0_055_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Hall_runner_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Leaves_sage_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_Sandbox_Toy_Domino_Networked_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Meshes_SandboxToys_Toy_Pipe_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room3_fabric_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Oak_fine_seams_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room4_door_glow_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room0_door_glow_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Tea_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room3_door_glow_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_Sandbox_Toy_Ball_Networked_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room5_rug_border_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Hall_stone_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Dried_flower_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_SoftLowPolySphere_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_0_170_2_020_0_120_0_050_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_2_480_1_920_0_100_0_035_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_0_075_0_245_0_250_0_012_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_Sandbox_Toy_PipeFan_Networked_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room0_cushion_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Frustum_0_340_0_220_0_400_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room0_plaster_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Frustum_0_120_0_080_0_280_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Meshes_SandboxToys_Toy_Dice_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Settings_XRMPTLightingSettings(High)_lighting",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_2_570_0_110_0_430_0_035_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Frustum_0_068_0_075_0_130_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Textures_SkyboxTextures_skybox01_openGL_png",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_2_000_0_170_0_300_0_040_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Runtime_World_CozyWorld_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_NetworkInteractableSpawner_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room1_fabric_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_Helpers_PoolerProjectiles_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_RoundCylinder24_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_Sandbox_Toy_Dice_Networked_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_Helpers_ObjectReset_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_2_860_2_040_0_110_0_065_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_MiniGames_MiniGamePrefabs_WhackAPig_Mini_Game___Whack_A_Pig_(Variant)_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room2_rug_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Leaves_olive_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room2_fabric_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_MiniGames_MiniGamePrefabs_Climbing_Mini_Game___Climber_(Variant)_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room3_plaster_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room3_cushion_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room0_fabric_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Meshes_SandboxToys_Toy_Ball_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room4_cushion_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Honey_oak_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_1_880_0_370_1_000_0_130_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room1_rug_border_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room4_rug_border_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_UIPrefabs_Spatial_Panel_UI_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Warm_lamp_glow_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_MiniGames_MiniGamePrefabs_Slingshot_Mini_Game___Slingshot_(Variant)_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_0_490_0_480_0_180_0_080_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_MiniGames_MiniGamePrefabs_WhackAPig_Mallet_Networked_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_UI_PlayerList_PlayerListUI_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Dusk_hills_far_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Dusk_band_2_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_Object_Maniplator_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_Sandbox_Toy_HalfPipe_Networked_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Audio_SFXClips_spring_birds_loop_with_low_cut_new_jersey_6267_mp3",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_Helpers_LightBakeUtility_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_CupHandleRing_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Runtime_World_CozyPlayerRig_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Runtime_Networking_CozyVoiceRouter_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_UIPrefabs_MenuUI_MessageBoard_Message_Board_UI_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Ceiling_warm_white_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_Sandbox_Toy_Bouncepad_Networked_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Dusk_band_5_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room0_accent_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Runtime_Networking_CozyTemplateSessionBridge_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room0_rug_border_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Meshes_SandboxToys_Toy_Domino_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_0_290_0_035_0_510_0_016_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_MiniGames_MiniGameMeshes_Mallet_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_1_880_0_820_0_270_0_120_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_0_250_0_530_0_990_0_120_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Materials_SkyboxMaterials_skybox01_openGL_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Tutorial_TutorialPrefabs_Tutorial_Player_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_Network_NetworkInteractions_NetworkPhysicsInteractable_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Skirting_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_0_055_1_120_0_400_0_018_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_UI_PlayerList_PlayerListInitializer_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_Teleport_Anchor_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room5_fabric_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_UIPrefabs_MenuUI_Offline_Menu_UI_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room2_rug_border_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_0_300_0_048_0_220_0_009_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_4_750_0_045_3_750_0_022_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Runtime_UI_CozyRoomUI_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room4_fabric_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_Player_ConnectionToggler_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room1_accent_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room5_accent_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_PrefabVariants_XR_Origin_Hands_(XR_Rig)_MP_Template_Variant_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room5_plaster_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_0_075_0_200_0_250_0_012_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room3_rug_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room3_rug_border_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Frustum_0_200_0_270_0_400_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room1_plaster_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Brushed_brass_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Dusk_band_1_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room1_rug_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Dusk_hills_near_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room0_rug_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Meshes_SandboxToys_Toy_Destroyer_fbx",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room5_door_glow_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Leaf_stems_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_NetworkedPrefabs_OtherPrefabs_Launcher_Networked_Interactable_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room3_accent_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room5_cushion_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_Managers_Network_Manager_VR_Multiplayer_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Rounded_2_120_1_940_0_110_0_055_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_UIPrefabs_Static_Persistent_UI_Objects_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Frustum_0_055_0_042_0_180_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_Scenes_SampleScene_LightingData_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_Managers_XRI_Network_Game_Manager_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Materials_Room4_plaster_mat",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_Environment_Level_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_CozyRooms_Generated_Meshes_Frustum_0_075_0_060_0_210_asset",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Audio_Main_mixer",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Prefabs_UIPrefabs_MenuUI_Music_Player_UI_prefab",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  },
+  {
+    "src_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "dst_id": "asset_Assets_VRMPAssets_Scripts_UI_WorldCanvas_cs",
+    "relation_type": "directlyDependsOn",
+    "src_type": "scene",
+    "dst_type": "asset"
+  }
+]

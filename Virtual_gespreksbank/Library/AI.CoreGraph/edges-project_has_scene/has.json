@@ -1,0 +1,191 @@
+[
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Assets_Samples_XR_Hands_1_8_1_HandVisualizer_HandVisualizer_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Assets_Scenes_BasicScene_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_netcode_gameobjects_Tests_Editor_Build_BuildTestScene_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_xr_androidxr_openxr_Tests_Runtime_Anchors_Scene_AnchorsRuntimeTests_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Basic_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_xr_compositionlayers_Runtime_Scenes_CompositionSplash_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_xr_core_utils_Tests_Runtime_Scenes_ConvexHullPerformanceTest_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_xr_core_utils_Tests_Runtime_Scenes_CustomApproximatelyPerformanceTest_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_xr_core_utils_Tests_Runtime_Scenes_PointInPolygonPerformanceTest_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene0_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene1_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene2_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene3_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene4_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene4a_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene5_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene6_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene7_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene8_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Tests_Conecast_Stress_Test_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  }
+]

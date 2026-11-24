@@ -1,0 +1,50 @@
+{
+    "name": "Unity.XR.CompositionLayers.UIInteraction",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3f088b6c6874b1b49a97747d1259079a",
+        "GUID:fe685ec1767f73d42b749ea8045bfe43",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:dc960734dc080426fa6612f1c5fe95f3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.xr.interaction.toolkit",
+            "expression": "0.0",
+            "define": "UNITY_XR_INTERACTION_TOOLKIT"
+        },
+        {
+            "name": "com.unity.xr.interaction.toolkit",
+            "expression": "3.0.0",
+            "define": "UNITY_XR_INTERACTION_TOOLKIT_3_0_0"
+        },
+        {
+            "name": "com.unity.xr.interaction.toolkit",
+            "expression": "3.5.0-pre.1",
+            "define": "UNITY_XR_INTERACTION_TOOLKIT_3_5_0_PRE_1_OR_NEWER"
+        },
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "0.0",
+            "define": "UNITY_RENDER_PIPELINES_UNIVERSAL"
+        },
+        {
+            "name": "com.unity.xr.interaction.toolkit",
+            "expression": "3.6.0",
+            "define": "UNITY_XR_INTERACTION_TOOLKIT_3_6_0_OR_NEWER"
+        },
+        {
+            "name": "Unity",
+            "expression": "6000.5.0a9",
+            "define": "LIFECYCLE_APIS_AVAILABLE"
+        }
+    ],
+    "noEngineReferences": false
+}

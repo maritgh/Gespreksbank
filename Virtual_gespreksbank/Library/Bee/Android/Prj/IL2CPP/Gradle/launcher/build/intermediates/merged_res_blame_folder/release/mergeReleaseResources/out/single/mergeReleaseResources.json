@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.cozyrooms.tussenruimte.launcher-release-20:/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "com.cozyrooms.tussenruimte.launcher-main-21:/mipmap-anydpi-v26/app_icon.xml"
+    },
+    {
+        "merged": "com.cozyrooms.tussenruimte.launcher-release-20:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.cozyrooms.tussenruimte.launcher-main-21:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.cozyrooms.tussenruimte.launcher-release-20:/mipmap-mdpi_app_icon.png.flat",
+        "source": "com.cozyrooms.tussenruimte.launcher-main-21:/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "com.cozyrooms.tussenruimte.launcher-release-20:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.cozyrooms.tussenruimte.launcher-main-21:/mipmap-mdpi/ic_launcher_foreground.png"
+    }
+]

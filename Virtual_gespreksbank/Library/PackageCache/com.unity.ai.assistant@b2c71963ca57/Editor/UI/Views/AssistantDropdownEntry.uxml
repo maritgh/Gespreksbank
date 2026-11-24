@@ -1,0 +1,14 @@
+<UXML xmlns:ui="UnityEngine.UIElements">
+    <ui:VisualElement name="assistantDropdownEntryRoot" class="assistant-dropdown-entry">
+        <ui:Image name="entryCheckmark" picking-mode="Ignore" class="assistant-dropdown-entry-checkmark mui-icon-checkmark" />
+        <ui:Image name="entryIcon" picking-mode="Ignore" class="assistant-dropdown-entry-icon" />
+        <ui:VisualElement picking-mode="Ignore" class="assistant-dropdown-entry-text">
+            <ui:VisualElement picking-mode="Ignore" class="assistant-dropdown-entry-title-row">
+                <ui:Label name="entryLabel" picking-mode="Ignore" class="assistant-dropdown-entry-label" />
+                <ui:Label name="entryRecommendedBadge" picking-mode="Ignore" text="Recommended" class="assistant-dropdown-entry-badge assistant-dropdown-entry-hidden" />
+                <ui:Label name="entryNewBadge" picking-mode="Ignore" text="New" class="assistant-dropdown-entry-badge assistant-dropdown-entry-badge-new assistant-dropdown-entry-hidden" />
+            </ui:VisualElement>
+            <ui:Label name="entryDescription" picking-mode="Ignore" class="assistant-dropdown-entry-description assistant-dropdown-entry-hidden" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</UXML>

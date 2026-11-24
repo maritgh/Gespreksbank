@@ -1,0 +1,237 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk android:minSdkVersion="34" />
+6-->INJECTED
+6-->INJECTED
+7
+8    <uses-permission android:name="android.permission.VIBRATE" />
+8-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:3:3-64
+8-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:3:20-61
+9    <uses-permission android:name="android.permission.INTERNET" />
+9-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:4:3-65
+9-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:4:20-62
+10    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+10-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:5:3-77
+10-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:5:20-74
+11    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+11-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:6:3-69
+11-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:6:20-66
+12    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+12-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:7:3-78
+12-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:7:20-75
+13    <uses-permission android:name="android.permission.BLUETOOTH" />
+13-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:8:3-66
+13-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:8:20-63
+14
+15    <uses-feature
+15-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:3-90
+16        android:name="android.hardware.vulkan.version"
+16-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:17-63
+17        android:required="true" />
+17-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:64-87
+18    <uses-feature
+18-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:3-87
+19        android:name="android.hardware.microphone"
+19-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:17-59
+20        android:required="false" />
+20-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:60-84
+21    <uses-feature
+21-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:3-88
+22        android:name="android.hardware.touchscreen"
+22-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:17-60
+23        android:required="false" />
+23-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:61-85
+24    <uses-feature
+24-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:3-99
+25        android:name="android.hardware.touchscreen.multitouch"
+25-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:17-71
+26        android:required="false" />
+26-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:72-96
+27    <uses-feature
+27-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:13:3-108
+28        android:name="android.hardware.touchscreen.multitouch.distinct"
+28-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:13:17-80
+29        android:required="false" />
+29-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:13:81-105
+30
+31    <uses-permission android:name="com.oculus.permission.HAND_TRACKING" />
+31-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:45:3-73
+31-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:45:20-70
+32
+33    <uses-feature
+33-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:46:3-88
+34        android:name="oculus.software.handtracking"
+34-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:46:17-60
+35        android:required="false" />
+35-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:46:61-85
+36
+37    <application
+37-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:3-44:17
+38        android:appCategory="game"
+38-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:16-42
+39        android:enableOnBackInvokedCallback="false"
+39-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:43-86
+40        android:extractNativeLibs="true" >
+40-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:87-119
+41        <meta-data
+41-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:5-69
+42            android:name="unity.splash-mode"
+42-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:16-48
+43            android:value="0" />
+43-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:49-66
+44        <meta-data
+44-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:16:5-74
+45            android:name="unity.splash-enable"
+45-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:16:16-50
+46            android:value="True" />
+46-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:16:51-71
+47        <meta-data
+47-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:17:5-81
+48            android:name="unity.requested-visible-insets"
+48-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:17:16-61
+49            android:value="" />
+49-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:17:62-78
+50        <meta-data
+50-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:18:5-101
+51            android:name="unity.system-bars-behavior"
+51-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:18:16-57
+52            android:value="ShowTransientBarsBySwipe" />
+52-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:18:58-98
+53        <meta-data
+53-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:19:5-84
+54            android:name="unity.render-outside-safearea"
+54-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:19:16-60
+55            android:value="True" />
+55-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:19:61-81
+56        <meta-data
+56-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:20:5-81
+57            android:name="notch.config"
+57-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:20:16-43
+58            android:value="portrait|landscape" />
+58-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:20:44-78
+59        <meta-data
+59-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:21:5-84
+60            android:name="unity.auto-report-fully-drawn"
+60-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:21:16-60
+61            android:value="true" />
+61-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:21:61-81
+62        <meta-data
+62-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:22:5-78
+63            android:name="unity.strip-engine-code"
+63-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:22:16-54
+64            android:value="true" />
+64-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:22:55-75
+65        <meta-data
+65-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:23:5-78
+66            android:name="unity.run-without-focus"
+66-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:23:16-54
+67            android:value="true" />
+67-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:23:55-75
+68        <meta-data
+68-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:24:5-80
+69            android:name="unity.auto-set-game-state"
+69-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:24:16-56
+70            android:value="true" />
+70-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:24:57-77
+71
+72        <activity
+72-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:25:5-43:16
+73            android:name="com.unity3d.player.UnityPlayerGameActivity"
+73-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:25:312-369
+74            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+74-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:25:15-196
+75            android:enabled="true"
+75-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:25:197-219
+76            android:exported="true"
+76-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:25:220-243
+77            android:hardwareAccelerated="false"
+77-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:25:244-279
+78            android:launchMode="singleTask"
+78-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:25:280-311
+79            android:resizeableActivity="true"
+79-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:25:370-403
+80            android:screenOrientation="landscape"
+80-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:25:404-441
+81            android:theme="@style/BaseUnityGameActivityTheme" >
+81-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:25:442-491
+82            <intent-filter>
+82-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:26:7-30:23
+83                <category android:name="android.intent.category.LAUNCHER" />
+83-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:27:9-69
+83-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:27:19-66
+84
+85                <action android:name="android.intent.action.MAIN" />
+85-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:28:9-61
+85-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:28:17-58
+86
+87                <category android:name="com.oculus.intent.category.VR" />
+87-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:29:9-66
+87-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:29:19-63
+88            </intent-filter>
+89
+90            <meta-data
+90-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:31:7-82
+91                android:name="unityplayer.UnityActivity"
+91-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:31:18-58
+92                android:value="true" />
+92-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:31:59-79
+93            <meta-data
+93-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:32:7-77
+94                android:name="android.app.lib_name"
+94-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:32:18-53
+95                android:value="game" />
+95-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:32:54-74
+96            <meta-data
+96-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:33:7-130
+97                android:name="WindowManagerPreference:FreeformWindowSize"
+97-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:33:18-75
+98                android:value="@string/FreeformWindowSize_maximize" />
+98-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:33:76-127
+99            <meta-data
+99-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:34:7-145
+100                android:name="WindowManagerPreference:FreeformWindowOrientation"
+100-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:34:18-82
+101                android:value="@string/FreeformWindowOrientation_landscape" />
+101-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:34:83-142
+102            <meta-data
+102-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:35:7-70
+103                android:name="notch_support"
+103-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:35:18-46
+104                android:value="true" />
+104-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:35:47-67
+105
+106            <layout
+106-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:36:7-68
+107                android:minHeight="300px"
+107-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:36:15-40
+108                android:minWidth="400px" />
+108-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:36:41-65
+109
+110            <intent-filter xmlns:android="http://schemas.android.com/apk/res/android" >
+110-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:37:7-42:23
+110-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:37:22-80
+111                <action android:name="android.intent.action.VIEW" />
+111-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:38:9-61
+111-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:38:17-58
+112
+113                <category android:name="android.intent.category.DEFAULT" />
+113-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:39:9-68
+113-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:39:19-65
+114                <category android:name="android.intent.category.BROWSABLE" />
+114-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:40:9-70
+114-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:40:19-67
+115
+116                <data
+116-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:41:9-118
+117                    android:host="com.unityplayeraccounts.99a15c5f-70df-40fd-91a5-660994b70553"
+117-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:41:40-115
+118                    android:scheme="unitydl" />
+118-->/Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:41:15-39
+119            </intent-filter>
+120        </activity>
+121    </application>
+122
+123</manifest>

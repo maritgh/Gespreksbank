@@ -1,0 +1,6 @@
+<UXML xmlns:ui="UnityEngine.UIElements">
+    <ui:VisualElement class="assistant-dropdown-footer">
+        <ui:Label name="footerNote" picking-mode="Ignore" class="assistant-dropdown-footer-note" />
+        <ui:Button name="footerLink" class="assistant-dropdown-footer-link" />
+    </ui:VisualElement>
+</UXML>

@@ -1,0 +1,6 @@
+<UXML xmlns:ui="UnityEngine.UIElements">
+    <ui:VisualElement name="headerRoot" class="assistant-dropdown-header">
+        <ui:Label name="headerTitle" picking-mode="Ignore" class="assistant-dropdown-header-title" />
+        <ui:Label name="headerDescription" picking-mode="Ignore" class="assistant-dropdown-header-description" />
+    </ui:VisualElement>
+</UXML>

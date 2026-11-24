@@ -1,0 +1,29 @@
+{
+    "name": "Unity.XR.CompositionLayers.UIInteraction.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a47483e66eeb94b36ac0bf05d89bcca4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.xr.interaction.toolkit",
+            "expression": "",
+            "define": "UNITY_XR_INTERACTION_TOOLKIT"
+        },
+        {
+            "name": "Unity",
+            "expression": "6000.5.0a9",
+            "define": "LIFECYCLE_APIS_AVAILABLE"
+        }
+    ],
+    "noEngineReferences": false
+}

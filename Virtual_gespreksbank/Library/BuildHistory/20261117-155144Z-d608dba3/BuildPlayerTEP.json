@@ -1,0 +1,23 @@
+{
+
+"Instructions Readme": "1) Open Chrome or Edge, 2) go to chrome://tracing, 3) click Load, 4) navigate to this file.",
+"processInfo": {
+    
+},
+
+"traceEvents":[
+{ "pid": 52676, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "Unity" } },
+{ "pid": 52676, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-100" } },
+{ "pid": 52676, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 52676, "tid": 1, "ts": 1794930704460579, "dur": 364035, "ph": "X", "name": "Build player", "args": {} },
+{ "pid": 52676, "tid": 1, "ts": 1794930704460899, "dur": 9633, "ph": "X", "name": "Call PrepareForBuild callbacks", "args": {} },
+{ "pid": 52676, "tid": 1, "ts": 1794930704472911, "dur": 345, "ph": "X", "name": "Call internal build started callbacks", "args": {} },
+{ "pid": 52676, "tid": 1, "ts": 1794930704480638, "dur": 234667, "ph": "X", "name": "Preprocess Player", "args": {} },
+{ "pid": 52676, "tid": 1, "ts": 1794930704824296, "dur": 313, "ph": "X", "name": "Call Post-Process callbacks", "args": {} },
+{ "pid": 52676, "tid": 1, "ts": 1794930704825162, "dur": 455, "ph": "X", "name": "ChromeTraceHeader", "args": {} },
+{ "pid": 52676, "tid": 1, "ts": 1794930704827269, "dur": 274, "ph": "X", "name": "", "args": {} },
+{ "pid": 52676, "tid": 1, "ts": 1794930704826618, "dur": 1171, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+{}
+
+]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "com.unity.ai.assistant",
+  "displayName": "Assistant",
+  "version": "2.22.0-pre.1",
+  "unity": "6000.0",
+  "description": "Assistant is a generative AI tool integrated into the Unity Editor to explore ideas, answer questions, and perform actions directly in the project. Use natural-language prompts to interact with Assistant in a conversation-based interface. Depending on the mode you choose, Assistant can either provide guidance or take action in your scene and assets.\n\nAsk\nFocuses on explanation and guidance. Assistant answers questions, suggests workflows, and inspects your project using read-only tools without modifying your content.\n\nAgent\nFocuses on action. Assistant can create, modify, or remove objects and assets by calling the Unity Editor tools. All actions respect your permission settings and require approval when needed.\n\nAssistant is designed to be project-aware, helping you work more efficiently without leaving the Unity Editor. It also provides tools for adding generative AI to Unity asset workflows.",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.2d.sprite": "1.0.0",
+    "com.unity.mathematics": "1.3.2",
+    "com.unity.nuget.mono-cecil": "1.11.5"
+  },
+  "unityRelease": "60f1",
+  "_upm": {
+    "changelog": "### Added\n\n- With model tiers, a thinking level control next to the model picker, and a confirmation before changing the model or thinking level in a conversation with messages. Both are locked while Assistant replies.\n- With model tiers, the model picker groups options by tier with descriptions, Recommended and New labels, and starts on the recommended default.\n\n### Changed\n\n- The AI dropdown shows an organization's daily free allowance as \"Daily free usage\", with a bar of the share left and the reset time, and leaves it out of the credits figure. \"No credits remaining\" names the daily reset for organizations with daily free usage. The out-of-credits and running-low banners no longer say credits refresh at the start of the month.\n- The out-of-credits and low-credits banners name the organization the credits belong to.\n- Thinking levels show as Quick, Balanced and Deep.\n- Updated the AI Toolkit SDK to 1.8.0. Slow generation downloads now retry instead of waiting on a single request.\n- When a billing-organization override is active, the subscription and credit banners say which organization the project belongs to and which organization AI usage is billed to, instead of \"your organization\", and link to the dashboard settings where the billing organization can be reviewed or reset.\n- With model tiers, an unavailable option offers the other options in its tier for that message instead of switching to the default model.\n\n### Removed\n\n- The flat model picker and the model option tooltip; the model picker is always grouped by tier.\n\n### Fixed\n\n- An agent turn (Claude Code and other third-party agents) no longer hangs on \"Preparing...\" or switches to a new empty conversation when a domain reload happens while the agent is working\n- Chat becoming unavailable with \"relay connection was lost\" a few minutes after a script reload\n- Codex no longer runs Unity tools without an approval prompt in Read Only and Default modes once its conversation is more than five minutes old. Unity tool approval requests that can't be matched to an active AI Gateway session are now rejected instead of auto-approved (UUM-156316).\n- Codex's Full Access mode now runs Unity tools without an approval prompt, as the mode intends (UUM-156316).\n- Editor memory growing on every script reload on CoreCLR\n- Generations whose credit charge fails after the asset is ready now deliver the asset instead of failing once the polling limit runs out.\n- NullReferenceException in the Console after installing or removing a package when a generator session could not be restored after a domain reload.\n- On Windows with the Mono runtime, each connected MCP client no longer adds about 2 GB to the Editor's GC Reserved Memory, and the relay and client code signatures are read correctly (UUM-157911).\n- Rejecting a Codex Unity tool approval prompt with the \"For conversation\" scope now rejects the call, instead of running the tool and showing \"Permission granted\" (UUM-156304).\n- Relay connection not restored after a script reload while the Editor is in the background\n- Todo panel spinner no longer stays active after a turn ends if the LLM did not update the task list"
+  },
+  "upmCi": {
+    "footprint": "b32e61ea1c6bbda8342c74810bb3472361aeebd6"
+  },
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.ai.assistant@2.22/manual/index.html",
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/muse-editor.git",
+    "type": "git",
+    "revision": "436a18d3ff329a72bca6e494282359bf89d70dae"
+  },
+  "_fingerprint": "b2c71963ca57cd76bf59f3039bc237fb338a0365"
+}

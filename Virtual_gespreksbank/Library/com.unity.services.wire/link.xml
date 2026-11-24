@@ -1,0 +1,20 @@
+<linker>
+  <!-- Generated automatically by the com.unity.services.wire package. -->
+  <assembly fullname="System.Configuration">
+    <type fullname="System.Configuration.ExeConfigurationHost" preserve="fields">
+      <method signature="System.Void .ctor()" />
+    </type>
+    <type fullname="System.Configuration.IgnoreSection" preserve="all" />
+  </assembly>
+  <assembly fullname="System">
+    <namespace fullname="System.Net.Configuration" preserve="all" />
+    <type fullname="System.Diagnostics.SystemDiagnosticsSection" preserve="nothing">
+      <method name=".ctor" />
+    </type>
+    <type fullname="System.Diagnostics.FilterElement" preserve="nothing">
+      <method name=".ctor" />
+    </type>
+    <type fullname="System.Diagnostics.DiagnosticsConfigurationHandler" preserve="all" />
+    <type fullname="System.Net.IPAddress" preserve="fields" />
+  </assembly>
+</linker>

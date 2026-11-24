@@ -1,0 +1,11 @@
+{"timestamp":"2026-11-17T17:42:27.028639000Z","thread_id":"8747602688","log_level":"Info","message":"{\"type\":\"StepStart\",\"stepName\":\"Call internal build started callbacks\",\"depth\":1}"}
+{"timestamp":"2026-11-17T17:42:27.029295000Z","thread_id":"8747602688","log_level":"Info","message":"{\"type\":\"StepEnd\",\"stepName\":\"Call internal build started callbacks\",\"depth\":1,\"durationTicks\":8560}"}
+{"timestamp":"2026-11-17T17:42:27.033042000Z","thread_id":"8747602688","log_level":"Info","message":"{\"type\":\"StepStart\",\"stepName\":\"Preprocess Player\",\"depth\":1}"}
+{"timestamp":"2026-11-17T17:42:27.202111000Z","thread_id":"8747602688","log_level":"Info","message":"1 URP assets included in build\n- URP-Performant - Assets/VRMPAssets/Settings/URP-Performant.asset\n\t - URP-Performant-Renderer - Assets/VRMPAssets/Settings/URP-Performant-Renderer.asset - UnityEngine.Rendering.Universal.UniversalRendererData\n"}
+{"timestamp":"2026-11-17T17:42:27.351289000Z","thread_id":"8747602688","log_level":"Error","message":"NullReferenceException: Object reference not set to an instance of an object"}
+{"timestamp":"2026-11-17T17:42:27.470408000Z","thread_id":"8747602688","log_level":"Info","message":"Pipeline: this build does not include the Pipeline (Project Settings > Pipeline > Runtime), so its assemblies and settings are excluded from it."}
+{"timestamp":"2026-11-17T17:42:27.470457000Z","thread_id":"8747602688","log_level":"Info","message":"{\"type\":\"StepEnd\",\"stepName\":\"Preprocess Player\",\"depth\":1,\"durationTicks\":4374130}"}
+{"timestamp":"2026-11-17T17:42:27.470535000Z","thread_id":"8747602688","log_level":"Error","message":"Error building Player: NullReferenceException: Object reference not set to an instance of an object"}
+{"timestamp":"2026-11-17T17:42:27.623857000Z","thread_id":"8747602688","log_level":"Info","message":"{\"type\":\"StepStart\",\"stepName\":\"Call Post-Process callbacks\",\"depth\":1}"}
+{"timestamp":"2026-11-17T17:42:27.623881000Z","thread_id":"8747602688","log_level":"Info","message":"{\"type\":\"StepEnd\",\"stepName\":\"Call Post-Process callbacks\",\"depth\":1,\"durationTicks\":370}"}
+{"timestamp":"2026-11-17T17:42:27.623883000Z","thread_id":"8747602688","log_level":"Info","message":"{\"type\":\"StepEnd\",\"stepName\":\"Build player\",\"depth\":0,\"durationTicks\":6012320}"}

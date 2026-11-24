@@ -1,0 +1,1 @@
+{"status":"Valid","reason":"Signature is ok","isLegacy":false,"attestation":{"version":1,"format":"archive","integrity":"sha256-ef0jtO7lwn71J9j6SwZuA+M3j4YwRXN8DQHMLQO3PEY=","packageName":"com.unity.ai.assistant","packageVersion":"2.22.0-pre.1","publishingChannel":"unity","entitlementKeys":[],"artifactType":"upmPackage"}}

@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements"
+         xmlns="UnityEngine.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="modelFallbackContentRoot">
+        <ui:VisualElement name="modelFallbackOptions" class="model-fallback-options" />
+        <ui:VisualElement class="model-fallback-controls-row">
+            <ui:Button name="modelFallbackDismissButton" text="Dismiss"/>
+            <ui:VisualElement class="controls-spacer"/>
+            <ui:Button name="modelFallbackRetryButton" text="Try again"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

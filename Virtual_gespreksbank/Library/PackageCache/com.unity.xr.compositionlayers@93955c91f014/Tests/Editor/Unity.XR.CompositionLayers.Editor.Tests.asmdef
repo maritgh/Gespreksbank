@@ -1,0 +1,32 @@
+{
+    "name": "Unity.XR.CompositionLayers.Editor.Tests",
+    "rootNamespace": "UnityEditor.XR.CompositionLayers.Tests",
+    "references": [
+        "Unity.XR.CompositionLayers.Editor",
+        "Unity.XR.CompositionLayers",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "Unity.XR.CompositionLayers.Tests"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [
+        {
+            "name": "Unity",
+            "expression": "6000.5.0a9",
+            "define": "LIFECYCLE_APIS_AVAILABLE"
+        }
+    ],
+    "noEngineReferences": false
+}

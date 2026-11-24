@@ -1,0 +1,8 @@
+com.unity3d.player.unityLibrary-pngs-0 /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/generated/res/pngs/release
+com.unity3d.player.unityLibrary-updated_navigation_xml-1 /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/generated/updated_navigation_xml/release
+com.unity3d.player.unityLibrary-mergeReleaseResources-2 /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.unity3d.player.unityLibrary-mergeReleaseResources-3 /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.unity3d.player.unityLibrary-release-4 /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/merged_res/release/mergeReleaseResources
+com.unity3d.player.unityLibrary-release-5 /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/packaged_res/release/packageReleaseResources
+com.unity3d.player.unityLibrary-main-6 /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res
+com.unity3d.player.unityLibrary-release-7 /Users/maritsnijder/hackathon/cozyrooms/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/release/res

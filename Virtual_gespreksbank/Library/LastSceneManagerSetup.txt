@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/CozyRooms/Generated/De Gespreksbank.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

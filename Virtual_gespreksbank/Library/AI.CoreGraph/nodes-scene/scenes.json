@@ -1,0 +1,245 @@
+[
+  {
+    "id": "scene_Assets_CozyRooms_Generated_Tussenruimte_unity",
+    "type": "scene",
+    "path": "Assets/CozyRooms/Generated/Tussenruimte.unity",
+    "name": "Tussenruimte",
+    "direct_dependencies_count": 170,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Assets_Samples_XR_Hands_1_8_1_HandVisualizer_HandVisualizer_unity",
+    "type": "scene",
+    "path": "Assets/Samples/XR Hands/1.8.1/HandVisualizer/HandVisualizer.unity",
+    "name": "HandVisualizer",
+    "direct_dependencies_count": 4,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Hands_Interaction_Demo_HandsDemoScene_unity",
+    "type": "scene",
+    "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Hands Interaction Demo/HandsDemoScene.unity",
+    "name": "HandsDemoScene",
+    "direct_dependencies_count": 76,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Spatial_Keyboard_KeyboardDemo_unity",
+    "type": "scene",
+    "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Spatial Keyboard/KeyboardDemo.unity",
+    "name": "KeyboardDemo",
+    "direct_dependencies_count": 20,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Assets_Samples_XR_Interaction_Toolkit_3_5_1_Starter_Assets_DemoScene_unity",
+    "type": "scene",
+    "path": "Assets/Samples/XR Interaction Toolkit/3.5.1/Starter Assets/DemoScene.unity",
+    "name": "DemoScene",
+    "direct_dependencies_count": 35,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Assets_Scenes_BasicScene_unity",
+    "type": "scene",
+    "path": "Assets/Scenes/BasicScene.unity",
+    "name": "BasicScene",
+    "direct_dependencies_count": 21,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Assets_Scenes_SampleScene_unity",
+    "type": "scene",
+    "path": "Assets/Scenes/SampleScene.unity",
+    "name": "SampleScene",
+    "direct_dependencies_count": 65,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_netcode_gameobjects_Tests_Editor_Build_BuildTestScene_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.netcode.gameobjects/Tests/Editor/Build/BuildTestScene.unity",
+    "name": "BuildTestScene",
+    "direct_dependencies_count": 1,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_xr_androidxr_openxr_Tests_Runtime_Anchors_Scene_AnchorsRuntimeTests_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.xr.androidxr-openxr/Tests/Runtime/Anchors/Scene/AnchorsRuntimeTests.unity",
+    "name": "AnchorsRuntimeTests",
+    "direct_dependencies_count": 3,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Basic_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.render-pipelines.universal/Editor/SceneTemplates/Basic.unity",
+    "name": "Basic",
+    "direct_dependencies_count": 2,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.render-pipelines.universal/Editor/SceneTemplates/Indoors.unity",
+    "name": "Indoors",
+    "direct_dependencies_count": 19,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.render-pipelines.universal/Editor/SceneTemplates/Standard.unity",
+    "name": "Standard",
+    "direct_dependencies_count": 12,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_xr_compositionlayers_Runtime_Scenes_CompositionSplash_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.xr.compositionlayers/Runtime/Scenes/CompositionSplash.unity",
+    "name": "CompositionSplash",
+    "direct_dependencies_count": 8,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_xr_core_utils_Tests_Runtime_Scenes_ConvexHullPerformanceTest_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.xr.core-utils/Tests/Runtime/Scenes/ConvexHullPerformanceTest.unity",
+    "name": "ConvexHullPerformanceTest",
+    "direct_dependencies_count": 0,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_xr_core_utils_Tests_Runtime_Scenes_CustomApproximatelyPerformanceTest_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.xr.core-utils/Tests/Runtime/Scenes/CustomApproximatelyPerformanceTest.unity",
+    "name": "CustomApproximatelyPerformanceTest",
+    "direct_dependencies_count": 0,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_xr_core_utils_Tests_Runtime_Scenes_PointInPolygonPerformanceTest_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.xr.core-utils/Tests/Runtime/Scenes/PointInPolygonPerformanceTest.unity",
+    "name": "PointInPolygonPerformanceTest",
+    "direct_dependencies_count": 0,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene0_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.xr.interaction.toolkit/Tests/Scenes/SceneLoadingTests.Scene0.unity",
+    "name": "SceneLoadingTests.Scene0",
+    "direct_dependencies_count": 0,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene1_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.xr.interaction.toolkit/Tests/Scenes/SceneLoadingTests.Scene1.unity",
+    "name": "SceneLoadingTests.Scene1",
+    "direct_dependencies_count": 1,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene2_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.xr.interaction.toolkit/Tests/Scenes/SceneLoadingTests.Scene2.unity",
+    "name": "SceneLoadingTests.Scene2",
+    "direct_dependencies_count": 1,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene3_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.xr.interaction.toolkit/Tests/Scenes/SceneLoadingTests.Scene3.unity",
+    "name": "SceneLoadingTests.Scene3",
+    "direct_dependencies_count": 1,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene4_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.xr.interaction.toolkit/Tests/Scenes/SceneLoadingTests.Scene4.unity",
+    "name": "SceneLoadingTests.Scene4",
+    "direct_dependencies_count": 3,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene4a_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.xr.interaction.toolkit/Tests/Scenes/SceneLoadingTests.Scene4a.unity",
+    "name": "SceneLoadingTests.Scene4a",
+    "direct_dependencies_count": 1,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene5_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.xr.interaction.toolkit/Tests/Scenes/SceneLoadingTests.Scene5.unity",
+    "name": "SceneLoadingTests.Scene5",
+    "direct_dependencies_count": 2,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene6_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.xr.interaction.toolkit/Tests/Scenes/SceneLoadingTests.Scene6.unity",
+    "name": "SceneLoadingTests.Scene6",
+    "direct_dependencies_count": 1,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene7_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.xr.interaction.toolkit/Tests/Scenes/SceneLoadingTests.Scene7.unity",
+    "name": "SceneLoadingTests.Scene7",
+    "direct_dependencies_count": 1,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Scenes_SceneLoadingTests_Scene8_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.xr.interaction.toolkit/Tests/Scenes/SceneLoadingTests.Scene8.unity",
+    "name": "SceneLoadingTests.Scene8",
+    "direct_dependencies_count": 1,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_xr_interaction_toolkit_Tests_Tests_Conecast_Stress_Test_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.xr.interaction.toolkit/Tests/Tests/Conecast Stress Test.unity",
+    "name": "Conecast Stress Test",
+    "direct_dependencies_count": 5,
+    "direct_dependents_count": null,
+    "asset_type": null
+  }
+]

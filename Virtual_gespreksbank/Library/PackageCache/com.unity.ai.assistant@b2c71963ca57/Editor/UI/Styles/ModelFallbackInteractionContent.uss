@@ -1,0 +1,18 @@
+.model-fallback-options {
+    margin-top: 12px;
+}
+
+.model-fallback-controls-row {
+    flex-direction: row;
+    align-items: center;
+    margin-top: 8px;
+}
+
+#modelFallbackDismissButton {
+    background-color: transparent;
+    border-width: 0;
+}
+
+#modelFallbackDismissButton:hover {
+    background-color: var(--muse-chat-foregrounds-320);
+}
